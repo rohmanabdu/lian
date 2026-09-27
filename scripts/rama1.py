@@ -8,17 +8,12 @@ DRIVE_FILE_ID = "1BS_-b7RJJwINV-U8p5NdNYldDW7GmfLn"
 EXCLUDED_CATEGORY = "playlist koko uyo"
 OUTPUT_FILE = "playlist/rama1.m3u"
 
-DEFAULT_LOGO = "https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg"  # <-- GANTI DENGAN LOGO KAMU
-
-VIDEO_EXTENSIONS = [
-    ".mp4", ".mkv", ".avi", ".mov", ".webm", ".flv", ".wmv", ".m4v",
-    ".mpeg", ".mpg", ".3gp", ".3g2", ".mts", ".m2ts", ".ts", ".vob",
-    ".ogv", ".rm", ".rmvb"
-]
+# LOGO BARU KAMU - SEKARANG DIPAKSA KE SEMUA CHANNEL
+DEFAULT_LOGO = "https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg"
 # ============================================
 
 def normalize(s):
-    return str(s or "").lower().replace(" ", " ").strip()
+    return str(s or "").lower().strip()
 
 def clean(s):
     return str(s or "").replace("\r", "").strip()
@@ -31,7 +26,7 @@ def is_video_url(url):
         path = urlparse(val).path.lower()
     except:
         path = val
-    
+    VIDEO_EXTENSIONS = [".mp4",".mkv",".avi",".mov",".webm",".flv",".wmv",".m4v",".mpeg",".mpg",".3gp"]
     for ext in VIDEO_EXTENSIONS:
         if path.endswith(ext) or ext in val:
             return True
@@ -45,23 +40,15 @@ def parse_m3u(text):
         if line.startswith("#EXTINF"):
             name = line.split(",")[-1]
             group = re.search(r'group-title="([^"]*)"', line, re.I)
-            tvg_group = re.search(r'tvg-group="([^"]*)"', line, re.I)
-            tvg_logo = re.search(r'tvg-logo="([^"]*)"', line, re.I)
-            
-            category = ""
-            if group: category = group.group(1)
-            elif tvg_group: category = tvg_group.group(1)
-            
-            logo = tvg_logo.group(1) if tvg_logo else DEFAULT_LOGO
-            
-            current = {"name": clean(name), "category": clean(category), "logo": clean(logo)}
+            category = group.group(1) if group else ""
+            current = {"name": clean(name), "category": clean(category), "logo": DEFAULT_LOGO}
             continue
         if current and not line.startswith("#") and line.startswith("http"):
             result.append({
                 "name": current["name"],
                 "url": line,
                 "category": current["category"],
-                "logo": current["logo"] or DEFAULT_LOGO
+                "logo": DEFAULT_LOGO # <-- PAKSA DEFAULT
             })
             current = None
     return result
@@ -73,16 +60,13 @@ def parse_txt(text):
     for line in lines:
         m = re.match(r'^\[([^\]]+)\]$', line)
         if m:
-            category = clean(m.group(1))
-            continue
+            category = clean(m.group(1)); continue
         if line.endswith(":") and "://" not in line:
-            category = clean(line[:-1])
-            continue
+            category = clean(line[:-1]); continue
         if "|" in line:
             parts = line.split("|")
             if len(parts) >= 2:
-                name = clean(parts[0])
-                url = clean(parts[1])
+                name = clean(parts[0]); url = clean(parts[1])
                 if name and url.startswith("http"):
                     result.append({"name": name, "url": url, "category": category, "logo": DEFAULT_LOGO})
     return result
@@ -90,84 +74,48 @@ def parse_txt(text):
 def extract_json(data, result, inherited_category=""):
     if not data: return
     if isinstance(data, list):
-        for item in data:
-            extract_json(item, result, inherited_category)
+        for item in data: extract_json(item, result, inherited_category)
         return
     if not isinstance(data, dict): return
-
-    category = data.get("category") or data.get("group") or data.get("group_title") or data.get("genre") or inherited_category or ""
+    category = data.get("category") or data.get("group") or inherited_category or ""
     name = data.get("name") or data.get("title") or data.get("channel") or ""
     url = data.get("url") or data.get("link") or data.get("stream") or ""
-    logo = data.get("logo") or data.get("logo_url") or data.get("image") or data.get("tvg-logo") or ""
-
     if isinstance(url, str) and url.strip() and isinstance(name, str) and name.strip():
-        result.append({
-            "name": clean(name),
-            "url": clean(url),
-            "category": clean(category),
-            "logo": clean(logo) or DEFAULT_LOGO
-        })
+        result.append({"name": clean(name), "url": clean(url), "category": clean(category), "logo": DEFAULT_LOGO})
         return
-
     for v in data.values():
-        if isinstance(v, (dict, list)):
-            extract_json(v, result, category)
+        if isinstance(v, (dict, list)): extract_json(v, result, category)
 
 def parse_playlist(text):
     text = text.strip()
     try:
         j = json.loads(text)
-        res = []
-        extract_json(j, res, "")
+        res = []; extract_json(j, res, "")
         if res: return res
     except: pass
-
-    if "#EXTM3U" in text or "#EXTINF" in text:
-        return parse_m3u(text)
+    if "#EXTM3U" in text or "#EXTINF" in text: return parse_m3u(text)
     return parse_txt(text)
 
 def create_m3u(items):
     out = "#EXTM3U\n"
     for item in items:
-        logo = item.get("logo") or DEFAULT_LOGO
+        # SEMUA LOGO DIPAKSA DEFAULT_LOGO
+        logo = DEFAULT_LOGO
         cat = item.get("category") or "LIVE"
         name = item.get("name") or "Channel"
-        # escape "
-        logo = logo.replace('"', ' ')
-        cat = cat.replace('"', ' ')
-        name = name.replace('"', ' ')
         out += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{cat}",{name}\n{item["url"]}\n'
     return out
 
 def main():
     os.makedirs("playlist", exist_ok=True)
     SOURCE_URL = f"https://drive.usercontent.google.com/download?id={DRIVE_FILE_ID}&export=download&confirm=t"
-    
-    print(f"Ambil dari Drive: {DRIVE_FILE_ID}")
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-    r = requests.get(SOURCE_URL, headers=headers, timeout=60, allow_redirects=True)
+    r = requests.get(SOURCE_URL, headers={"User-Agent": "Mozilla/5.0"}, timeout=60)
     r.raise_for_status()
-    text = r.text
-
-    playlist = parse_playlist(text)
-    print(f"Total sumber: {len(playlist)}")
-
-    # FILTER SAMA PERSIS KAYAK CLOUDFLARE
-    filtered = []
-    for item in playlist:
-        if normalize(item.get("category")) == normalize(EXCLUDED_CATEGORY):
-            continue
-        if is_video_url(item.get("url")):
-            continue
-        filtered.append(item)
-
-    print(f"Setelah filter (buang '{EXCLUDED_CATEGORY}' + video): {len(filtered)}")
-
+    playlist = parse_playlist(r.text)
+    filtered = [i for i in playlist if normalize(i.get("category"))!= normalize(EXCLUDED_CATEGORY) and not is_video_url(i.get("url"))]
     m3u = create_m3u(filtered)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(m3u)
-
-    print(f"SELESAI -> {OUTPUT_FILE} jadi, bisa langsung di-play VLC / OTT")
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f: f.write(m3u)
+    print(f"SELESAI -> {OUTPUT_FILE} | {len(filtered)} channel | semua logo dipaksa {DEFAULT_LOGO}")
 
 if __name__ == "__main__":
     main()
