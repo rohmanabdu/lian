@@ -12,9 +12,9 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests
-      - name: Update rama2.m3u (Google Drive)
+      - name: Update rama1.m3u (Google Drive)
         run: python scripts/rama2.py
-      - name: Update rama1.m3u (Event)
+      - name: Update rama2.m3u (Event)
         run: python scripts/rama1.py
       - name: Commit & Push
         run: |
