@@ -6,7 +6,7 @@ import json
 # ================== CONFIG ==================
 DRIVE_FILE_ID = "1BS_-b7RJJwINV-U8p5NdNYldDW7GmfLn"
 EXCLUDED_CATEGORY = "playlist koko uyo"
-OUTPUT_FILE = "playlist/rama2.m3u"
+OUTPUT_FILE = "playlist/rama1.m3u"
 
 DEFAULT_LOGO = "https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg"  # <-- GANTI DENGAN LOGO KAMU
 
