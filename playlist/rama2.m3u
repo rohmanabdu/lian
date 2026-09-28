@@ -1,38 +1,155 @@
 #EXTM3U
 
+# ===== SOURCE 1 =====
+#EXTINF:-1 tvg-id="840093" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%2716593523%27&EntityType=%27Item%27&EntityId=%27849696%27&Width=448&Height=252&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="LIVE EVENT",07:25 WIB Badminton - 20th Asian Games Aichi-Nagoya 2026 Women's & Mixed Doubles Semi-final Asian Games CH06
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ba597f828db477e9f18d9ab7a4d6ca8:26eb8934f968f5dfc15b91797344411a
+https://tglmp01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.mpd
+
+
+# ===== SOURCE 2 =====
+#EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games Court 1 XOILACZ
+https://live1.quickscoreboardz.com/live/channel65.m3u8?wsSecret=244762cede9b6320ea0677419f439d97&wsABSTime=1790598874
+#EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games Court 2 XOILACZ
+https://live1.quickscoreboardz.com/live/channel66.m3u8?wsSecret=b2c33b58e993d7d6bc81ce86e9b4a6fc&wsABSTime=1790598933
+#EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games Court 1
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/b73d64f4-a528-4296-b051-5711e6a64f0e/HLS_ENC/index.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games Court 2
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/dba6af30-ebdd-4a92-a3b8-b8303d926188/HLS_ENC/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025112/1790549496833446_AG26_28Sep_Volleyball_Mens_India_vs_HongKong_live_landscape_thumb.jpg" group-title="LIVE EVENT",India vs Hong Kong China - Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/ag_strea2709/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Sepaktakraw 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/ag_dx3_22709/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285244661348_AG26_Diving_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Diving 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/ag_mds1_2709/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790557216658_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",India vs Hong Kong China - Men - Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/ag_dx6_22709/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Men's Weighlifting 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/ag_dx8_22709/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Men's Women's & Mixed Semifinals - Badminton 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/ag_dx4_22709/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790557230844_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Indonesia vs Kyrgyzstan - Men - Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/ag_dx7_22709/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789293295442741_AG26_Softball_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Singapore vs Chinese Taipei - Softball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/ag_mds3_2709/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790553238383_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",People's Republic of China vs Malaysia - Men - Hockey 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/ag_dx2_22709/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Prelims - Beach Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/ag_mds4_2709/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Chinese Taipei vs People's Republic of China - Badminton 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/ag_mds2_2709/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.90cb269a-22b7-4412-b479-e9691a30b915/3/BOXART-16X9/en-US._UR1920-1080_.jpeg" group-title="LIVE EVENT",Asian Games 2026 - 1st Quarter-Final - Pakistan vs Hong Kong China  Willow
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a2e91842dcb199f01178ea0c3d63b03:482194761e3cb8c3e37d09f246a3aa72
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd
+
+
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:04:32 AM 28-09-2026
+#LAST_UPDATE:07:02 AM 28-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
+#LIVE_COUNT:3
 #UPCOMING_COUNT:0
-#EXTINF:-1 tvg-id="B0HFPS22B5" tvg-name="USHL Hockey: Cedar Rapids RoughRiders vs Sioux City Musketeers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6e6343d3-c753-4498-b7ec-2e9cb4b701aa/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",USHL Hockey: Cedar Rapids RoughRiders vs Sioux City Musketeers  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFVBSG9N" tvg-name="Gymreapers Wodapalooza SoCal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1cc73568-d2bd-4ef6-ae4b-425196598a9e/39/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Gymreapers Wodapalooza SoCal  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
 #EXTINF:-1 tvg-id="B0HJQ3J8BH" tvg-name="Road to The Dome at Coles County Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1443d59e-324e-4ad5-9f1c-e27f24868b35/5/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Road to The Dome at Coles County Speedway  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
-#EXTINF:-1 tvg-id="B0HJVZ6B7D" tvg-name="Albany Regional, Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8991915d-a051-4704-9cb8-48b44ffa117c/6/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Albany Regional. Qualifying  Prime Sports
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFVBSG9N" tvg-name="Gymreapers Wodapalooza SoCal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1cc73568-d2bd-4ef6-ae4b-425196598a9e/39/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Gymreapers Wodapalooza SoCal  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a
-https://ABBJKKMAAAAAAAAMCVLML5GHNEYZB.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqzOh0BhpquSH0A2pjbG91ZGZyb250Angpc3NpZDphYjZkMzg4ZS03YzBkLTRmZTItYjBlMC1mZGI2YWE1MGQ2M2MZATihBaECeDMveW9mOHk4enE5cC9vdXQvdjEvNjkyMzVlZjY0ODZiNDhlMGJiZWVhMDJiMjBmYWFjM2UZATyBYlVTWCA_NV7I5y0c1jBdRbIy_z3A7icxKdS5Q_JJ7pOMzP9mGQ/PDX/f1d5711e7938446f8ba77aa4cace74fe/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yof8y8zq9p/out/v1/69235ef6486b48e0bbeea02b20faac3e/d5331b94-2238-4f3a-9c1b-a4a6ec745de5-cenc.mpd?aws.sessionId=621eb4d9-39d6-4945-952b-bf0a787eb8aa
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFVMCX59" tvg-name="Diving 03 Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc027b37-f227-41c4-b73d-92ccc989dbca/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Diving 03 Women  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 # ===== SOURCE 4 =====
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025112/1790549496833446_AG26_28Sep_Volleyball_Mens_India_vs_HongKong_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", India vs Hong Kong, China - Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/ag_strea2709/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Sepaktakraw 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/ag_dx3_22709/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285244661348_AG26_Diving_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Diving 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/ag_mds1_2709/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790557216658_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", India vs Hong Kong, China - Men - Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/ag_dx6_22709/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Men's Weighlifting 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/ag_dx8_22709/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Men's, Women's & Mixed Semifinals - Badminton 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/ag_dx4_22709/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790557230844_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Indonesia vs Kyrgyzstan - Men - Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/ag_dx7_22709/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789293295442741_AG26_Softball_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Singapore vs Chinese Taipei - Softball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/ag_mds3_2709/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790553238383_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", People's Republic of China vs Malaysia - Men - Hockey 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/ag_dx2_22709/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Prelims - Beach Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/ag_mds4_2709/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Chinese Taipei vs People's Republic of China - Badminton 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/ag_mds2_2709/ENG/master.m3u8
 
 
 
@@ -57,29 +174,23 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/unl_isra2709/ENG/master.
 
 # ===== SOURCE 6 =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:32 AM 28-09-2026
+#LAST_UPDATE:07:02 AM 28-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:14
+#LIVE_COUNT:1
+#UPCOMING_COUNT:13
+#EXTINF:-1 tvg-id="B0HKQ8Y5Z6" tvg-name="Asian Games 2026 - 1st Quarter-Final - Pakistan vs Hong Kong China" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.90cb269a-22b7-4412-b479-e9691a30b915/3/BOXART-16X9/en-US._UR1920-1080_.jpeg" group-title="Live Event: Willow",Asian Games 2026 - 1st Quarter-Final - Pakistan vs Hong Kong China  Willow
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a2e91842dcb199f01178ea0c3d63b03:482194761e3cb8c3e37d09f246a3aa72
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd
 
 # ===== SOURCE 7 =====
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qaUaTXEEOys/hq720.jpg" group-title="Live Event: Voli",02:20 WIB SESI BAURU vs SANCOR LONDRINA - Brazil Cup 2026
-7VN078CDtCA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LufTK1e.jpeg" group-title="Live Event: Voli",03:00 WIB PUERTO RICO vs CUBA - 3rd place NORCECA Championship Final Six
-FsWKVFZyQGM
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VDjsjBHaIgU/hq720.jpg" group-title="Live Event: Voli",03:00 WIB MEXICO U23 vs GUATEMALA U23 - PAN AMERICAN U23 Men's Championship
-VDjsjBHaIgU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/goq0qI7.jpeg" group-title="Live Event: Voli",03:10 WIB ð¦ð· BOCA JUNIORS vs CAJASOL - Blanquiazul Night 2026
-LEL1NSBoYTM
-#EXTINF:-1 tvg-logo="https://i.imgur.com/goq0qI7.jpeg" group-title="Live Event: Voli",03:10 WIB ðµðª BOCA JUNIORS vs CAJASOL - Blanquiazul Night 2026
-aEtIdGv3tn4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Psnn1iy.jpeg" group-title="Live Event: Voli",05:00 WIB LIMA ALLIANCE vs PINHEIROS - Blue and White Night 2026
 aEtIdGv3tn4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LufTK1e.jpeg" group-title="Live Event: Voli",05:00 WIB MEXICO vs UNITED STATES - NORCECA Championship Final Six
-FmLqzQ4BOLI
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t52bLH9cDTw/hq720.jpg" group-title="Live Event: Voli",05:00 WIB UNITED STATES U23 vs COSTA RICO U23 - PAN AMERICAN U23 Men's Championship
-t52bLH9cDTw
+#EXTINF:-1 tvg-logo="https://esportsbureau.com/wp-content/uploads/2025/02/Revelados-titulos-presentes-en-Juegos-Asiaticos-Nachi-Nagoya-2026.jpg" group-title="Live Event: Voli",08:05 WIB INDONESIA vs KYRGYZSTAN - Asian Games 2026
+Jw9mx2RQHRY
 
 
 # ===== SOURCE 8 =====
@@ -87,10 +198,14 @@ t52bLH9cDTw
 
 
 # ===== SOURCE 10 =====
-#EXTINF:-1 tvg-id="badminton_1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", 20TH Asian Games Court 1
-https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/6a20038e-3495-416b-88d0-146757f2541b/HLS_ENC/index.m3u8
-#EXTINF:-1 tvg-id="badminton_2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", 20TH Asian Games Court 2
-https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/0a9916e6-972e-467f-b175-7437e79cd82a/HLS_ENC/index.m3u8
+#EXTINF:-1 tvg-id="badminton_1" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" tvg-name="" group-title="Live Event: Badminton", 20TH Asian Games Court 1 XOILACZ
+https://live1.quickscoreboardz.com/live/channel65.m3u8?wsSecret=244762cede9b6320ea0677419f439d97&wsABSTime=1790598874
+#EXTINF:-1 tvg-id="badminton_2" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" tvg-name="" group-title="Live Event: Badminton", 20TH Asian Games Court 2 XOILACZ
+https://live1.quickscoreboardz.com/live/channel66.m3u8?wsSecret=b2c33b58e993d7d6bc81ce86e9b4a6fc&wsABSTime=1790598933
+#EXTINF:-1 tvg-id="badminton_3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", 20TH Asian Games Court 1
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/b73d64f4-a528-4296-b051-5711e6a64f0e/HLS_ENC/index.m3u8
+#EXTINF:-1 tvg-id="badminton_4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", 20TH Asian Games Court 2
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/dba6af30-ebdd-4a92-a3b8-b8303d926188/HLS_ENC/index.m3u8
 
 
 # ===== SOURCE 11 =====
