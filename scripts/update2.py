@@ -27,8 +27,8 @@ LOGO_REPLACEMENTS = [
         "new": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10"
     },
     {
-        "old": "https://contoh.com/logo-lama-5.png",
-        "new": "https://contoh.com/logo-baru-5.png"
+        "old": "https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493",
+        "new": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10"
     },
 ]
 # ============================================
