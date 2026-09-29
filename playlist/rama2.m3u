@@ -1,18 +1,19 @@
 #EXTM3U
 
+# ===== SOURCE 1 =====
+#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%2716481377%27&EntityType=%27LinearSchedule%27&EntityId=%27ef84fc92-d75d-4d14-a8fa-e3c25d456da0%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="LIVE EVENT",05:50 WIB Sepak Takraw - 20th Asian Games Aichi-Nagoya 2026 Men's Quadrant Preliminary Round Asian Games CH03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+
+
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:12:32 AM 30-09-2026
+#LAST_UPDATE:04:32 AM 30-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:2
 #UPCOMING_COUNT:0
-#EXTINF:-1 tvg-id="B0HJX1LNML" tvg-name="Scotland vs. Switzerland" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e842b2-d6c1-4703-9359-ea5e9d093acd/5/BOXART-16X9/en-US/1920x1080._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Live Event: Prime Sports",Scotland vs. Switzerland  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
 
 # ===== SOURCE 4 =====
 
@@ -64,11 +65,11 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive2909/ENG/master.
 
 # ===== SOURCE 6 =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:32 AM 30-09-2026
+#LAST_UPDATE:04:32 AM 30-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
-#UPCOMING_COUNT:10
+#UPCOMING_COUNT:20
 
 # ===== SOURCE 7 =====
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/A2YZepBqoEE/hq720.jpg" group-title="Live Event: Voli",04:30 WIB Praia Clube x ItambÃ© Minas - Sicredi Mineiro Volleyball Championship 2026
