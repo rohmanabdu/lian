@@ -1,23 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 28-09-26",16.00||SINGAPORE VS BANGLADESH
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",16.00||FILIPINA VS PAKISTAN
 https://live2.domainkqt.cc/live/channel15.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 28-09-26",17.25||JAPAN VS VENEZUELA
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",17.00||AUSTRALIA VS BRAZIL
 https://live2.domainkqt.cc/live/channel14.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 28-09-26",18.00||KORSEL VS PARAGUAY
-https://live2.domainkqt.cc/live/channel14.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 28-09-26",19.30||MALAYSIA VS INDONESIA
-http://filex.me:8080/live/3114654477/5787654467/302264.ts
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 28-09-26",23.00||GEORGIA VS UKRAINA
-https://live2.domainkqt.cc/live/channel15.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 28-09-26",23.00||ARMENIA VS MONTENEGRO
-https://live2.domainkqt.cc/live/channel6.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",01.45||BELGIA VS FRANCE
-https://live2.domainkqt.cc/live/channel1.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",01.45||TURKI VS ITALIA
-https://live2.domainkqt.cc/live/channel15.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",01.45||IRELAND VS HUNGARIA
-https://live2.domainkqt.cc/live/channel12.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",01.45||ROMANIA VS BOSNIA
-https://live2.domainkqt.cc/live/channel11.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",01.45||SWEDIA VS POLANDIA
-https://live2.domainkqt.cc/live/channel6.m3u8
