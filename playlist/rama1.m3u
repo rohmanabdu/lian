@@ -1,5 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",16.00||FILIPINA VS PAKISTAN
-https://live2.domainkqt.cc/live/channel15.m3u8
+https://live2.domainkqt.cc/live/channel1.m3u8
 #EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",17.00||AUSTRALIA VS BRAZIL
-https://live2.domainkqt.cc/live/channel14.m3u8
+https://live2.domainkqt.cc/live/channel8.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",19.30||THAILAND VS VIETNAM
+https://live2.domainkqt.cc/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",20.00||BURUNDI VS ALGERIA
+https://live2.domainkqt.cc/live/channel13.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",20.00||LESSHOTO VS MORROCO
+https://live2.domainkqt.cc/live/channel17.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",20.00||SOUTH SUDAN VS EGYPT
+https://live2.domainkqt.cc/live/channel2.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",23.00||FINLAND VS BELARUS
+https://live2.domainkqt.cc/live/channel15.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",23.00||GHANA VS GAMBIA
+https://live2.domainkqt.cc/live/channel11.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 29-09-26",23.00||GUINEA VS NIGERIA
+https://live2.domainkqt.cc/live/channel18.m3u8
