@@ -1,11 +1,11 @@
 name: Update Playlist Otomatis
 on:
-  schedule:
-    - cron: '*/15 * * * *'
   workflow_dispatch:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
