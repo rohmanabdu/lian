@@ -34,19 +34,23 @@ https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
 
 
 # ===== SOURCE 2 =====
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/0KD94",13:00 WIB Republik Korea U-23 vs China PR U-23
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
+https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025341/1790724849491657_AG26_30Sep_Squash_Mens_Team_QF_live_landscape_thumb.jpg" group-title="LIVE EVENT",India In Action - Squash 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/ag_strea2909/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025374/1790742065138688_AG26_Shooting_Trap-Mixed-Team_Final_Kynan-Neeru_live_landscape_thumb.jpg" group-title="LIVE EVENT",India In Action - Shooting 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/ag_strea2909/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="LIVE EVENT",Day 12 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025334/1790719133579107_AG26_Boxing_mens_90kg_Semifinal_Turabek_vs_Kapil_muti_live_landscape_thumb.jpg" group-title="LIVE EVENT",India In Action - Boxing 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/ag_strea2909/HIN/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Japan vs China - Quarterfinals - Beach Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="LIVE EVENT",Day 12 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/ag_strea2909/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Indonesia vs China - Quarterfinals - Beach Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/ag_dx7_33009/ENG/master.m3u8
@@ -115,17 +119,17 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/ag_strea2909/ENG/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025374/1790742065138688_AG26_Shooting_Trap-Mixed-Team_Final_Kynan-Neeru_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", India In Action - Shooting 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/ag_strea2909/ENG/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="Live Event: Sony Liv 1", Day 12 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025334/1790719133579107_AG26_Boxing_mens_90kg_Semifinal_Turabek_vs_Kapil_muti_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", India In Action - Boxing 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/ag_strea2909/HIN/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Japan vs China - Quarterfinals - Beach Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Live Event: Sony Liv 1", Day 12 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/ag_strea2909/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Indonesia vs China - Quarterfinals - Beach Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/ag_dx7_33009/ENG/master.m3u8
