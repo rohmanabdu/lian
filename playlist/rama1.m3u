@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 30-09-26",13.00||SOUTH KOREA U-23 VS CHINA U-23
-https://live2.domainkqt.cc/live/channel5.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 30-09-26",16.00||TIMOR LESTE VS CAMBODIA
-https://live2.domainkqt.cc/live/channel1.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 30-09-26",17.30||UZBEKISTAN U-23 VS JAPAN U-23
-https://live2.domainkqt.cc/live/channel6.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 30-09-26",19.00||HONGKONG VS BRUNEI
-https://live2.domainkqt.cc/live/channel15.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 30-09-26",23.00||LITUANIA VS ANDORA
-https://live2.domainkqt.cc/live/channel19.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 30-09-26",23.00||ERITREA VS SOUTH AFRIKA
-https://live2.domainkqt.cc/live/channel15.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",00.30||BAHRAIN VS YAMAN
-https://live05.miekgo.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",00.30||UEA VS QATAR
-https://live2.domainkqt.cc/live/channel20.m3u8
 #EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",07.00||ARGENTINA VS BOLIVIA
 https://live2.domainkqt.cc/live/channel21.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",19.00||INDONESIA VS BANGLDESH
+https://live2.domainkqt.cc/live/channel5.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",19.30||MALAYSIA VS SINGAPORE
+https://live2.domainkqt.cc/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",21.00||UZBEKISTAN VS SYRIA
+https://live2.domainkqt.cc/live/channel7.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",21.00||MALDIVES VS LEBANON
+https://live2.domainkqt.cc/live/channel20.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",22.30||VFB STTUTGART VS FURTH
+https://live2.domainkqt.cc/live/channel4.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",23.00||AZERBAIJAN VS LIETCHTENSTEIN
+https://live2.domainkqt.cc/live/channel15.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",23.00||GUINEA VS KENYA
+https://live2.domainkqt.cc/live/channel11.m3u8
