@@ -1,14 +1,5 @@
 #EXTM3U
 
-# ===== SOURCE 1 =====
-#EXTINF:-1 tvg-id="Mono 29.th" tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",01:35 WIB à¸à¹à¸²à¸¢à¸à¸­à¸à¸ªà¸ UEFA NATIONS LEAGUE 2026/2027 MONO29
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=29
-
-
 # ===== SOURCE 2 =====
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/JHxeb",01:45 WIB Jerman vs Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -43,34 +34,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741708462683_UNL2627_Denmark_vs_Portugal_landscape_thumb.jpg" group-title="LIVE EVENT",Denmark vs Portugal UEFA Nations League 2026-27 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Footlive0110/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741478728683_UNL2627_Germany_vs_Serbia_landscape_thumb.jpg" group-title="LIVE EVENT",Germany vs Serbia UEFA Nations League 2026-27 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/Footlive0110/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741070586683_UNL2627_Greece_vs_Netherlands_landscape_thumb.jpg" group-title="LIVE EVENT",Greece vs Netherlands UEFA Nations League 2026-27 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive0110/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790740927241668_UNL2627_Wales_vs_Norway_landscape_thumb.jpg" group-title="LIVE EVENT",Wales vs Norway UEFA Nations League 2026-27 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/Footlive0110/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790741352461668_UNL2627_Republic_of_Ireland_vs_Austria_landscape_thumb.jpg" group-title="LIVE EVENT",Republic of Ireland vs Austria UEFA Nations League 2026-27 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/Footlive0110/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741194386683_UNL2627_Israel_vs_Kosovo_landscape_thumb.jpg" group-title="LIVE EVENT",Israel vs Kosovo UEFA Nations League 2026-27 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/Footlive0110/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790741596147668_UNL2627_Malta_vs_Gibraltar_landscape_thumb.jpg" group-title="LIVE EVENT",Malta vs Gibraltar UEFA Nations League 2026-27 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Footlive0110/ENG/master.m3u8
 
 
 # ===== SOURCE 3 =====
@@ -95,40 +62,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdo
 
 # ===== SOURCE 4 =====
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741708462683_UNL2627_Denmark_vs_Portugal_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Denmark vs Portugal UEFA Nations League 2026-27 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Footlive0110/ENG/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741478728683_UNL2627_Germany_vs_Serbia_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Germany vs Serbia UEFA Nations League 2026-27 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/Footlive0110/ENG/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741070586683_UNL2627_Greece_vs_Netherlands_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Greece vs Netherlands UEFA Nations League 2026-27 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive0110/ENG/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790740927241668_UNL2627_Wales_vs_Norway_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Wales vs Norway UEFA Nations League 2026-27 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/Footlive0110/ENG/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790741352461668_UNL2627_Republic_of_Ireland_vs_Austria_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Republic of Ireland vs Austria UEFA Nations League 2026-27 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/Footlive0110/ENG/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741194386683_UNL2627_Israel_vs_Kosovo_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Israel vs Kosovo UEFA Nations League 2026-27 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/Footlive0110/ENG/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790741596147668_UNL2627_Malta_vs_Gibraltar_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Malta vs Gibraltar UEFA Nations League 2026-27 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Footlive0110/ENG/master.m3u8
 
 
 
