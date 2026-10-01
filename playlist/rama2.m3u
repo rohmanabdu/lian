@@ -1,5 +1,20 @@
 #EXTM3U
 
+# ===== SOURCE 1 =====
+#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%2716497059%27&EntityType=%27LinearSchedule%27&EntityId=%27f70a934c-e948-4d64-b932-cd4fef981db2%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="LIVE EVENT",05:50 WIB Rugby Sevens - 20th Asian Games Aichi-Nagoya 2026 Men's & Women's Preliminary Rounds Placing 9th-1 Asian Games CH04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
+https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
+#EXTINF:-1 tvg-id="840095" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%2716497043%27&EntityType=%27LinearSchedule%27&EntityId=%27e1f65f91-5c1b-48b0-8bb5-013cd2bc32f1%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="LIVE EVENT",05:55 WIB Ju-Jitsu - 20th Asian Games Aichi-Nagoya 2026 Menâs -94kg & -77kg Womenâs -52kg Qualifications S Asian Games CH05
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2dc792d1b97441a92a4be4e9a655e18:2ba047bfd23d36bb823990fb69a98cca
+https://tglmp03.akamaized.net/out/v1/c2dd987e84784d478cb0e9eb797fda5d/manifest.mpd
+#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%2716481377%27&EntityType=%27LinearSchedule%27&EntityId=%27ef84fc92-d75d-4d14-a8fa-e3c25d456da0%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="LIVE EVENT",05:50 WIB Sepak Takraw - 20th Asian Games Aichi-Nagoya 2026 Men's & Women's Quadrant Preliminary Round & Semi- Asian Games CH03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+
+
 # ===== SOURCE 2 =====
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025576/1790883954328809_AG26_2nd_Oct_Gold_Mens_live_landscape_thumb.jpg" group-title="LIVE EVENT",Golf 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
@@ -87,6 +102,11 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive2909/ENG/master.
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
 #UPCOMING_COUNT:20
+
+# ===== SOURCE 7 =====
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gXtldSsA4NE/hq720.jpg" group-title="Live Event: Voli",05:00 WIB AZULIM MONTE CARMELO vs JF VÃLEI
+gXtldSsA4NE
+
 
 # ===== SOURCE 8 =====
 
