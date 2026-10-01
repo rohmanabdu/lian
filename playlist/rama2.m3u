@@ -1,14 +1,6 @@
 #EXTM3U
 
 # ===== SOURCE 1 =====
-#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%2716497059%27&EntityType=%27LinearSchedule%27&EntityId=%27f70a934c-e948-4d64-b932-cd4fef981db2%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="LIVE EVENT",06:00 WIB Rugby Sevens - 20th Asian Games Aichi-Nagoya 2026 Men's & Women's Pool Phase Asian Games CH04
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
-https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-#EXTINF:-1 tvg-logo="https://staticg.sportskeeda.com/editor/2023/07/a17f4-16890646767775-1920.jpg" group-title="LIVE EVENT",12:00 WIB à¸à¹à¸²à¸¢à¸à¸­à¸à¸ªà¸à¸à¸²à¸£à¹à¸à¹à¸à¸à¸±à¸à¸à¸µà¸¬à¸²à¹à¸­à¹à¸à¸µà¸¢à¸à¹à¸à¸¡à¸ªà¹ à¸à¸£à¸±à¹ T SPORT 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=7
 #EXTINF:-1 tvg-logo="https://staticg.sportskeeda.com/editor/2023/07/a17f4-16890646767775-1920.jpg" group-title="LIVE EVENT",13:45 WIB à¸à¹à¸²à¸¢à¸à¸­à¸à¸ªà¸à¸à¸²à¸£à¹à¸à¹à¸à¸à¸±à¸à¸à¸µà¸¬à¸²à¹à¸­à¹à¸à¸µà¸¢à¸à¹à¸à¸¡à¸ªà¹ 2026 PPTV 36
 #EXTVLCOPT:network-caching=1000
 http://3bb.engatetv.com:25461/hstn/line/21
@@ -19,47 +11,43 @@ http://3bb.engatetv.com:25461/hstn/line/21
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/ag_edx1_3009/ENG/master.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/32-EQ",14:00 WIB Vietnam vs Uzbekistan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/32-EQ",14:00 WIB Thailand vs China
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/32-EQ",17:00 WIB Indonesia vs Philippines
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-10-5374579.m3u8?txSecret=9c4ffba6876e16560f4b0eb52b187551&txTime=6ABE4679
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/32-EQ",17:20 WIB Japan vs Qatar
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-10-5374550.m3u8?txSecret=249f2b39ce3f6418c92f026b40707975&txTime=6ABE4AB1
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/9/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="LIVE EVENT",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025503/1790833966022180_AG26_Hockey_SF_IND_vs_PAK_live_landscape_thumb.jpg" group-title="LIVE EVENT",India vs Pakistan - Men's Semifinal - Hockey 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025528/1790843549899424_AG26_Wrestling-Mens-Greco-Roman-97kg-Gold-Medal-Match_Nitesh_live_landscape_thumb.jpg" group-title="LIVE EVENT",India In Action - Wrestling 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/ag_strea0110/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025520/1790841478519725_AG26_Judo-Womens-70-Kg-TAKHELLAMBAM-Inunganbi_Bronze-Medal-Match_landscape_thumb.jpg" group-title="LIVE EVENT",India In Action - Judo 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/ag_mds2_3009/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025458/1790809309031766_Ag26_1st_Oct_Squash_Mens_Team_Semi_Final_live_landscape_thumb.jpg" group-title="LIVE EVENT",India In Action - Squash 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/ag_strea3009/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790847218388_1789300066350741_AG26_Rugby_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Hong Kong China vs Malaysia - Women - Rugby Sevens 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/ag_dx7_03009/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790839473675_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",India vs Pakistan - Men - Hockey 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790848496149_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Malaysia vs Republic of Korea - Men - Hockey 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/ag_dx2_03009/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301156639741_AG26_Taekwondo_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Taekwondo 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/ag_mds1_3009/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Wrestling 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/ag_mds3_0110/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790838313643_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Thailand vs China - Men - Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Judo 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/ag_mds2_3009/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790850020052_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Japan vs Qatar - Men - Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/ag_dx8_00110/ENG/master.m3u8
@@ -111,27 +99,17 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/
 
 # ===== SOURCE 4 =====
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025503/1790833966022180_AG26_Hockey_SF_IND_vs_PAK_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", India vs Pakistan - Men's Semifinal - Hockey 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025528/1790843549899424_AG26_Wrestling-Mens-Greco-Roman-97kg-Gold-Medal-Match_Nitesh_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", India In Action - Wrestling 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/ag_strea0110/ENG/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025520/1790841478519725_AG26_Judo-Womens-70-Kg-TAKHELLAMBAM-Inunganbi_Bronze-Medal-Match_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", India In Action - Judo 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/ag_mds2_3009/ENG/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025458/1790809309031766_Ag26_1st_Oct_Squash_Mens_Team_Semi_Final_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", India In Action - Squash 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/ag_strea3009/ENG/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790847218388_1789300066350741_AG26_Rugby_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Hong Kong, China vs Malaysia - Women - Rugby Sevens 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/ag_dx7_03009/ENG/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790839473675_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", India vs Pakistan - Men - Hockey 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790848496149_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Malaysia vs Republic of Korea - Men - Hockey 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/ag_dx2_03009/ENG/master.m3u8
@@ -141,17 +119,17 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/ag_dx2_03009/ENG/master.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/ag_edx1_3009/ENG/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301156639741_AG26_Taekwondo_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Taekwondo 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/ag_mds1_3009/ENG/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Wrestling 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/ag_mds3_0110/ENG/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790838313643_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Thailand vs China - Men - Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Judo 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/ag_mds2_3009/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790850020052_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Japan vs Qatar - Men - Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/ag_dx8_00110/ENG/master.m3u8
@@ -215,13 +193,6 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive2909/ENG/master.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=939e7b556d7bdc330d46cabb8ea9583e:6790dc9d4d1d92b6927df1c9bf56c02f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aimpvw04dj/out/v1/b18bac44594f477c9df38a2ce3e008bd/cenc.mpd
-
-# ===== SOURCE 7 =====
-#EXTINF:-1 tvg-logo="https://esportsbureau.com/wp-content/uploads/2025/02/Revelados-titulos-presentes-en-Juegos-Asiaticos-Nachi-Nagoya-2026.jpg" group-title="Live Event: Voli",14:00 WIB THAILAND vs CHINA - 4th final Asian Games Men 2026
-DZAPLWW4rGU
-#EXTINF:-1 tvg-logo="https://esportsbureau.com/wp-content/uploads/2025/02/Revelados-titulos-presentes-en-Juegos-Asiaticos-Nachi-Nagoya-2026.jpg" group-title="Live Event: Voli",14:00 WIB VIETNAM vs UZBEKISTAN - 9th to 16th place final Asian Games Men 2026
-Fgc6u0NL-eQ
-
 
 # ===== SOURCE 8 =====
 
