@@ -1,20 +1,23 @@
 #EXTM3U
 
 # ===== SOURCE 2 =====
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/yKOXu",19:30 WIB Indonesia vs Bangladesh
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/yKOXu",19:30 WIB Malaysia vs Singapura
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/9/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="LIVE EVENT",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025240/1790650314984639_UNL2627_MD3_Azerbaijan_vs_LiechTenstein_landscape_thumb.jpg" group-title="LIVE EVENT",Azerbaijan vs Liechtenstein UEFA Nations League 2026-27 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Footlive0110/ENG/master.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/JHxeb",[Belum Mulai] 23:00 WIB Azerbaijan vs Liechtenstein
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 # ===== SOURCE 3 =====
@@ -44,6 +47,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 # ===== SOURCE 4 =====
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025240/1790650314984639_UNL2627_MD3_Azerbaijan_vs_LiechTenstein_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Azerbaijan vs Liechtenstein UEFA Nations League 2026-27 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Footlive0110/ENG/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561740000673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day1_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Alfred Dunhill Links Championship - Day 1 DP World Tour Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
