@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",07.00||ARGENTINA VS BOLIVIA
 https://live2.domainkqt.cc/live/channel21.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",13.10||PANAMA VS NEW ZEALAND
+https://live2.domainkqt.cc/live/channel23.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",17.10||JAPAN VS EQUADOR
+https://live2.domainkqt.cc/live/channel11.m3u8
 #EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",19.00||INDONESIA VS BANGLDESH
 https://live2.domainkqt.cc/live/channel5.m3u8
 #EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 1-10-26",19.30||MALAYSIA VS SINGAPORE
