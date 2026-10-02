@@ -1,36 +1,6 @@
 #EXTM3U
 
-# ===== SOURCE 1 =====
-#EXTINF:-1 tvg-id="840093" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%2716470660%27&EntityType=%27Item%27&EntityId=%27846603%27&Width=448&Height=252&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="LIVE EVENT",06:00 WIB Hockey - 20th Asian Games Aichi-Nagoya 2026 Women's Classification Pools Women's Bronze Medal Matc Asian Games CH06
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ba597f828db477e9f18d9ab7a4d6ca8:26eb8934f968f5dfc15b91797344411a
-https://tglmp01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.mpd
-#EXTINF:-1 tvg-id="Mono 29.th" tvg-logo="https://staticg.sportskeeda.com/editor/2023/07/a17f4-16890646767775-1920.jpg" group-title="LIVE EVENT",14:50 WIB à¸à¹à¸²à¸¢à¸à¸­à¸à¸ªà¸ ASIAN GAMES AOCHI - NAGOYA 2026 MONO29
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=29
-#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%2716497023%27&EntityType=%27LinearSchedule%27&EntityId=%27944373e0-6c91-4740-816e-6808f86b286a%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="LIVE EVENT",15:00 WIB Rhythmic Gymnastics - 20th Asian Games Aichi-Nagoya 2026 Women's Group All-Around Qualification Asian Games CH01
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-#EXTINF:-1 tvg-logo="https://staticg.sportskeeda.com/editor/2023/07/a17f4-16890646767775-1920.jpg" group-title="LIVE EVENT",15:45 WIB à¸à¹à¸²à¸¢à¸à¸­à¸à¸ªà¸à¸à¸²à¸£à¹à¸à¹à¸à¸à¸±à¸à¸à¸µà¸¬à¸²à¹à¸­à¹à¸à¸µà¸¢à¸à¹à¸à¸¡à¸ªà¹ 2026 PPTV 36
-#EXTVLCOPT:network-caching=1000
-http://3bb.engatetv.com:25461/hstn/line/21
-
-
 # ===== SOURCE 2 =====
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/yKOXu",15:30 WIB Thailand vs Filipina
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/yKOXu",16:30 WIB Vietnam vs Pakistan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/32-EQ",17:00 WIB Vietnam vs Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -45,47 +15,19 @@ http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7ImQS53NNg3W7LEgCpPCm3sGvLs57tvBXNlNl5Zcww&s=10" group-title="LIVE EVENT",Formula 1 - FANCODE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7ImQS53NNg3W7LEgCpPCm3sGvLs57tvBXNlNl5Zcww&s=10" group-title="LIVE EVENT",Formula 1 - SporTV BR FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7ImQS53NNg3W7LEgCpPCm3sGvLs57tvBXNlNl5Zcww&s=10" group-title="LIVE EVENT",Formula 1 - LOW QUALITY
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/FEEE.m3u8?
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="LIVE EVENT",Day 14 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg" group-title="LIVE EVENT",India in Action - Hockey 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/ag_strea0210/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="LIVE EVENT",Day 14 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/ag_strea0210/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790936421609_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Japan vs China - Men - Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790931672228_1789298767394741_AG26_Rhythmic_Gymnastics_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Group All-Around - Rhythmic Gymnastics 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301156639741_AG26_Taekwondo_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Taekwondo 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/ag_mds1_0110/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Boxing 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/ag_mds2_0110/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Wrestling 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/ag_mds3_0110/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Judo 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Football 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/ag_mds4_0110/ENG/master.m3u8
@@ -125,42 +67,22 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/
 
 # ===== SOURCE 4 =====
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Live Event: Sony Liv 1", Day 14 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", India in Action - Hockey 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/ag_strea0210/ENG/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="Live Event: Sony Liv 1", Day 14 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/ag_strea0210/ENG/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790936421609_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Japan vs China - Men - Volleyball 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790931672228_1789298767394741_AG26_Rhythmic_Gymnastics_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Group All-Around - Rhythmic Gymnastics 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301156639741_AG26_Taekwondo_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Taekwondo 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/ag_mds1_0110/ENG/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Boxing 20th Asian Games Aichi-Nagoya 2026 Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/ag_mds2_0110/ENG/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Wrestling 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/ag_mds3_0110/ENG/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Judo 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Football 20th Asian Games Aichi-Nagoya 2026 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/ag_mds4_0110/ENG/master.m3u8
