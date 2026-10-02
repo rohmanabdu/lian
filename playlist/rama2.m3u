@@ -1,5 +1,19 @@
 #EXTM3U
 
+# ===== SOURCE 1 =====
+#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%2716497059%27&EntityType=%27LinearSchedule%27&EntityId=%27f70a934c-e948-4d64-b932-cd4fef981db2%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="LIVE EVENT",05:55 WIB Rugby Sevens - 20th Asian Games Aichi-Nagoya 2026 Men's & Women's Bronze Medal Match Finals Asian Games CH04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
+https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
+
+
+# ===== SOURCE 2 =====
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025347/1790728680024979_AG26_golf_india_in_action_live_landscape_thumb.jpg" group-title="LIVE EVENT",India in Action - Golf 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/ag_strea0210/ENG/master.m3u8
+
+
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
 #LAST_UPDATE:01:02 AM 03-10-2026
@@ -26,6 +40,11 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvye
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025347/1790728680024979_AG26_golf_india_in_action_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", India in Action - Golf 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/ag_strea0210/ENG/master.m3u8
 
 
 
@@ -84,14 +103,14 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive2909/ENG/master.
 # ===== SOURCE 7 =====
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BLyCRc7a8fs/hq720.jpg" group-title="Live Event: Voli",03:45 WIB GERDAU MINAS vs UNIVERSITÃRIO VOLEY - BRASÃLIA VÃLEI CUP
 BLyCRc7a8fs
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wZ3Cyyank4E/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 06:15 WIB BRASÃLIA VÃLEI vs FLUMINENSE - BRASÃLIA VÃLEI CUP
-wZ3Cyyank4E
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_989419-MPE112119445421_052026-O.jpeg" group-title="Live Event: Voli",04:30 WIB SÃO CAETANO VS SESI VÃLEI - Camponato Paulista
 Xm0N5_PJEIs
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Xm0N5_PJEIs/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 05:00 WIB PRAIA GRANDE vs SESI BAURU - Camponato Paulista Men
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Xm0N5_PJEIs/hq720.jpg" group-title="Live Event: Voli",05:00 WIB PRAIA GRANDE vs SESI BAURU - Camponato Paulista Men
 Xm0N5_PJEIs
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_989419-MPE112119445421_052026-O.jpeg" group-title="Live Event: Voli",[Belum Mulai] 05:30 WIB VÃLEI RENATA VS SUZANO VÃLEI - Camponato Paulista Men
-Xm0N5_PJEIs
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_989419-MPE112119445421_052026-O.jpeg" group-title="Live Event: Voli",05:30 WIB VÃLEI RENATA VS SUZANO VÃLEI - Camponato Paulista Men
+NcBAuTqXT88
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wZ3Cyyank4E/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 06:15 WIB BRASÃLIA VÃLEI vs FLUMINENSE - BRASÃLIA VÃLEI CUP
+wZ3Cyyank4E
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_989419-MPE112119445421_052026-O.jpeg" group-title="Live Event: Voli",[Belum Mulai] 07:00 WIB PINHEIROS vs OSASCO SÃO CRISTÃVÃO SAÃDE - Camponato Paulista
 Xm0N5_PJEIs
 
