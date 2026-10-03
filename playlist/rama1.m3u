@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 2-10-26",16.00||VIETNAM VS PAKISTAN
-https://live2.domainkqt.cc/live/channel1.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 2-10-26",16.00||THAILAND VS FILIPINA
-https://tfzs0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=a56072572ae75114ec3516c7c158aff5&wsABSTime=1790975669&wsSession=510ff2a6e1fbdceb0434ca7c-179093247248568&wsIPSercert=b1258e89327ee56480448c0566e0eef5&wsBindIP=2&wsserid=1168287765269359649
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 2-10-26",17.30||JUVENTUS VS CREMONESE
-https://tfzs0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel18/playlist.m3u8?wsSecret=0dcd1e52c424a745a39af6e7435bbad6&wsABSTime=1790976544&wsSession=1e288d1dc142165bdcd022fa-179093334729625&wsIPSercert=b1258e89327ee56480448c0566e0eef5&wsBindIP=2&wsserid=1168287746140338896
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 2-10-26",18.00||SOUTH KOREA VS VENEZUELA
-https://live2.domainkqt.cc/live/channel12.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 2-10-26",18.35||CHINA VS PALESTINA
-https://live2.domainkqt.cc/live/channel21.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 2-10-26",THE RED FC VS PERSIPURA
-https://play.heyangstream.com/live/5009298_F5hd01.m3u8?expire=1790955676&sign=b67867acb2501746c918ddd1d4a2a966
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 2-10-26",19.00||PERSIRAJA VS SUMSEL UNITED
-https://play.heyangstream.com/live/5007696_F5hd01.m3u8?expire=1790962672&sign=faf55fce19894335299405b725fb4a77
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",20;00 WIB - FINLANDIA VS ALBANIA |UEFA NATIONS LEAGUE| Sportsstr
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",23;00 WIB - ISLANDIA VS BULGARIA |UEFA NATIONS LEAGUE| Sportsst2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",23;00 WIB - ESTONIA VS LUXEMBOURG |UEFA NATIONS LEAGUE| Sindo
+https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",23;00 WIB - BELARUS VS SAN MARINO |UEFA NATIONS LEAGUE| Sportsstr
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",23;00 WIB - KROASIA VS INGGRIS |UEFA NATIONS LEAGUE| Socc
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",01;45 WIB - SWISS VS SLOVENIA |UEFA NATIONS LEAGUE| Sportsstr
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",01;45 WIB - MAKEDONA VS SKOTLANDIA |UEFA NATIONS LEAGUE| Sportsst2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
