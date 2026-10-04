@@ -1,12 +1,17 @@
 #EXTM3U
 
 # ===== SOURCE 1 =====
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",06:35 WIB Idemitsu Moto4 Asia Cup TNT SPORTS 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",07:35 WIB MotoGP: Grand Prix of Japan - Warm Up MOTOGP TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",07:35 WIB MotoGP: Grand Prix of Japan - Warm Up TNT SPORTS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",06:35 WIB Idemitsu Moto4 Asia Cup Fancode
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",07:35 WIB MotoGP: Grand Prix of Japan - Warm Up Fancode
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
@@ -155,15 +160,6 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/ag_mds4_0110/ENG/master.
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
 #UPCOMING_COUNT:18
-
-# ===== SOURCE 7 =====
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/q2kuMYE9i7M/hqdefault.jpg" group-title="Live Event: Voli",04:00 WIB UNIVERSITÃRIO x FLUMINENSE - BRASÃLIA VÃLEI CUP
-q2kuMYE9i7M
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/K810eTY_8Y4/hq720.jpg" group-title="Live Event: Voli",04:30 WIB ITAQUÃ VÃLEI MANIA
-K810eTY_8Y4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/opiK71DZZKs/hq720.jpg" group-title="Live Event: Voli",04:30 WIB SIL VÃLEI GUARULHOS
-opiK71DZZKs
-
 
 # ===== SOURCE 8 =====
 
