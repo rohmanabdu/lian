@@ -1,31 +1,30 @@
 #EXTM3U
 
 # ===== SOURCE 2 =====
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/JHxeb",20:00 WIB Azerbaijan vs Lithuania
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/10/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="LIVE EVENT",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/JHxeb",[Belum Mulai] 23:00 WIB Malta vs Andorra
+#EXTINF:-1 tvg-logo="https://www.banderas-e-himnos.com/media/435/bandera-polonia.png" group-title="LIVE EVENT",23:00 WIB LKS LODZ WOMEN-VS RZESZOW - POLISH VOLEY LEAGUE
+https://site04.superabbit77hd.hair/es/volleyball/tauron-liga-women-2236976/lks-lodz-women-vs-rzeszow-women.html
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/flag-turkey-169-format-vector-260nw-2547800165.jpg" group-title="LIVE EVENT",23:00 WIB THY WOMEN vs GALATASARAY - TURKISH VOLEY LEAGUE
+https://site04.superabbit77hd.hair/es/volleyball/sultanlar-ligi-women-2236979/thy-women-vs-galatasaray-women.html?icg=UEU
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/JHxeb",23:00 WIB Malta vs Andorra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/JHxeb",[Belum Mulai] 23:00 WIB Kosovo vs Austria
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/JHxeb",23:00 WIB Kosovo vs Austria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/10/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="LIVE EVENT",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
 
 
 # ===== SOURCE 3 =====
@@ -84,11 +83,6 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive0410/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/Footlive0410/
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561630121673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day4_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Alfred Dunhill Links Championship - Day 4 DP World Tour Sony Liv
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/golflive0410/
-
 
 
 # ===== SOURCE 5 =====
@@ -110,6 +104,10 @@ kVYb4OifcF8
 tH-yJ2VUEb8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iDLFnKagvzc/hq720.jpg" group-title="Live Event: Voli",22:45 WIB BRESCIA vs TALMASSONS â ITALIAN VOLEYBALL SERIES A1
 iDLFnKagvzc
+#EXTINF:-1 tvg-logo="https://www.banderas-e-himnos.com/media/435/bandera-polonia.png" group-title="Live Event: Voli",23:00 WIB LKS LODZ WOMEN-VS RZESZOW - POLISH VOLEY LEAGUE
+https://site04.superabbit77hd.hair/es/volleyball/tauron-liga-women-2236976/lks-lodz-women-vs-rzeszow-women.html
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/flag-turkey-169-format-vector-260nw-2547800165.jpg" group-title="Live Event: Voli",23:00 WIB THY WOMEN vs GALATASARAY - TURKISH VOLEY LEAGUE
+https://site04.superabbit77hd.hair/es/volleyball/sultanlar-ligi-women-2236979/thy-women-vs-galatasaray-women.html?icg=UEU
 
 
 # ===== SOURCE 8 =====
