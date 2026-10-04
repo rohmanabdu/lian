@@ -6,14 +6,26 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-#EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT",MPL INDONESIA SEASON 18 Week 7 Day 3 Streaming mobile legends: bang bang.
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/10/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="LIVE EVENT",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/JHxeb",[Belum Mulai] 23:00 WIB Malta vs Andorra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/JHxeb",[Belum Mulai] 23:00 WIB Kosovo vs Austria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 # ===== SOURCE 3 =====
@@ -62,10 +74,15 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho
 
 # ===== SOURCE 4 =====
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794655063993_UNL2627_MD4_Azerbaijan_vs_Lithuania_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Azerbaijan vs Lithuania UEFA Nations League 2026-27 Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790795255287993_UNL2627_MD4_Kosovo_vs_Austria_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Kosovo vs Austria UEFA Nations League 2026-27 Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Footlive0410/
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive0410/
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790795407473993_UNL2627_MD4_Malta_vs_Andorra_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Malta vs Andorra UEFA Nations League 2026-27 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/Footlive0410/
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561630121673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day4_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Alfred Dunhill Links Championship - Day 4 DP World Tour Sony Liv
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
@@ -86,6 +103,15 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/golflive0410/
 #LIVE_COUNT:1
 #UPCOMING_COUNT:19
 
+# ===== SOURCE 7 =====
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kVYb4OifcF8/hq720.jpg" group-title="Live Event: Voli",22:00 WIB BERGAMO VS MACERATA â ITALIAN VOLEYBALL SERIES A1
+kVYb4OifcF8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tH-yJ2VUEb8/hq720.jpg" group-title="Live Event: Voli",22:00 WIB VALLEFOGLIA vs SAN GIOVANNI â ITALIAN VOLEYBALL SERIES A1
+tH-yJ2VUEb8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iDLFnKagvzc/hq720.jpg" group-title="Live Event: Voli",22:45 WIB BRESCIA vs TALMASSONS â ITALIAN VOLEYBALL SERIES A1
+iDLFnKagvzc
+
+
 # ===== SOURCE 8 =====
 
 
@@ -97,9 +123,4 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/golflive0410/
 
 # ===== SOURCE 11 =====
 
-
-
-# ===== SOURCE 13 =====
-#EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="Live Esports", MPL INDONESIA SEASON 18 Week 7 Day 3 Streaming mobile legends: bang bang.
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 
