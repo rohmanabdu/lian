@@ -1,16 +1,20 @@
 #EXTM3U
 
 # ===== SOURCE 2 =====
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/3cSp4Lu.md.png",11:15 MotoGP Race: Motul Grand Prix of Japan - MotoGP 2026 Round 16
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/3yG5Ig2.png",13:55 WIB Race - Formula 1 Gulf Air Bahrain Grand Prix in Malaysia 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/3yG5Ig2.png" group-title="LIVE EVENT",13:55 WIB Race - Formula 1 Gulf Air Bahrain Grand Prix in Malaysia 2026 Nonton GP
+#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
+http://master3.s3stream.top/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT",MPL INDONESIA SEASON 18 Week 7 Day 3 Streaming mobile legends: bang bang.
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg" group-title="LIVE EVENT",Closing Ceremony 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/AG_closi0410/
 
 
 # ===== SOURCE 3 =====
@@ -95,6 +99,11 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevob
 
 # ===== SOURCE 4 =====
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Closing Ceremony 20th Asian Games Aichi-Nagoya 2026 Sony Liv
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/AG_closi0410/
+
 
 
 # ===== SOURCE 5 =====
@@ -165,6 +174,11 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/ag_mds4_0110/ENG/master.
 
 # ===== SOURCE 11 =====
 
+
+
+# ===== SOURCE 13 =====
+#EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="Live Esports", MPL INDONESIA SEASON 18 Week 7 Day 3 Streaming mobile legends: bang bang.
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 
 
 # ===== SOURCE 15 =====
