@@ -1,50 +1,54 @@
-import os, re, subprocess
+import os
+import re
+from urllib.request import Request, urlopen
 
 URL = "https://rebrand.ly/UPPL2026"
 OUT_DIR = "playlist"
-OUT_FILE = os.path.join(OUT_DIR, "rama3.m3u")
+OUT_FILE = os.path.join(OUT_DIR, "rama3.m3u") # hasil di dalam folder playlist/
+
 os.makedirs(OUT_DIR, exist_ok=True)
 
-# Pakai curl, bukan requests - ini yang bisa tembus 403 rebrand.ly
-subprocess.run([
-    "curl", "-sL", "--compressed", "--max-time", "30",
-    "-A", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "-H", "Accept-Language: en-US,en;q=0.9,id;q=0.8",
-    "-H", "Referer: https://www.google.com/",
-    URL, "-o", "/tmp/source.m3u"
-], check=True)
+# Download (rebrand.ly otomatis redirect)
+req = Request(URL, headers={
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+})
+with urlopen(req, timeout=60) as resp:
+    text = resp.read().decode("utf-8", errors="ignore").lstrip("\ufeff")
 
-with open("/tmp/source.m3u", "r", encoding="utf-8", errors="ignore") as f:
-    text = f.read().lstrip("\ufeff")
-
-lines = [l.rstrip() for l in text.splitlines() if l.strip()]
+lines = text.splitlines()
 result = ["#EXTM3U"]
-total = 0
 kept = 0
+skipped = 0
 
 i = 0
 while i < len(lines):
-    if lines[i].startswith("#EXTINF:"):
-        block = [lines[i]]
-        i += 1
-        while i < len(lines) and not lines[i].startswith("#EXTINF:"):
-            block.append(lines[i])
-            i += 1
-        extinf = block[0]
-        total += 1
-        group_match = re.search(r'group-title="([^"]*)"', extinf, re.IGNORECASE)
-        group = (group_match.group(1) if group_match else "").upper()
-        name = (extinf.rsplit(",",1)[-1].strip() if "," in extinf else "").upper()
-        is_traktir = "TRAKTIR" in name or "TRAKTIK" in name
-        is_cadangan = "CADANGAN" in group or "CADANGAN" in name
-        print(f"[{total}] GROUP='{group}' | NAME='{name}' -> {'DIBUANG' if (is_traktir or is_cadangan) else 'DISIMPAN'}")
-        if not is_traktir and not is_cadangan:
-            result.extend(block)
+    line = lines[i].strip()
+    if line.startswith("#EXTINF"):
+        # group-title
+        group = ""
+        m = re.search(r'group-title="([^"]+)"', line)
+        if m:
+            group = m.group(1)
+        # nama channel
+        name = line.split(",", 1)[1].strip() if "," in line else ""
+        # url baris berikutnya
+        url_line = lines[i+1].strip() if i+1 < len(lines) else ""
+
+        # FILTER: hanya EVENT, bukan CADANGAN EVENT, bukan 001 TRAKTIR KOPI
+        if ("EVENT" in group.upper()
+            and "CADANGAN" not in group.upper()
+            and "001 TRAKTIR KOPI" not in name.upper()
+            and url_line and not url_line.startswith("#")):
+            result.append(line)
+            result.append(url_line)
             kept += 1
+        else:
+            skipped += 1
+        i += 2
     else:
         i += 1
 
 with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(result) + "\n")
-print(f"=== total={total} disimpan={kept} ===")
+
+print(f"Diambil: {kept}, Dibuang: {skipped}, Saved -> {OUT_FILE}")
