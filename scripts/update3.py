@@ -1,61 +1,71 @@
+import os
 import requests
+import re
 
-# Ambil playlist pakai curl, bukan requests (biar tidak 403)
 URL = "https://rebrand.ly/UPPL2026"
-TMP_FILE = "/tmp/source.m3u"
 OUT_DIR = "playlist"
 OUT_FILE = os.path.join(OUT_DIR, "rama3.m3u")
+
 os.makedirs(OUT_DIR, exist_ok=True)
 
-# Coba curl dengan header Chrome asli
-cmd = [
-    "curl", "-sL", "--compressed",
-    "-A", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "-H", "Accept-Language: en-US,en;q=0.9,id;q=0.8",
-    "-H", "Referer: https://www.google.com/",
-    "--max-time", "30",
-    URL, "-o", TMP_FILE
-]
-subprocess.run(cmd, check=True)
+# 1. Ambil playlist (ikut redirect rebrand.ly)
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
+resp = requests.get(URL, headers=headers, timeout=30, allow_redirects=True)
+resp.raise_for_status()
+text = resp.text
 
-with open(TMP_FILE, "r", encoding="utf-8", errors="ignore") as f:
-    text = f.read().lstrip("\ufeff")
+# Hapus BOM jika ada
+if text.startswith("\ufeff"):
+    text = text.lstrip("\ufeff")
 
-lines = [l.rstrip() for l in text.splitlines() if l.strip()]
-print(f"Total baris terdownload: {len(lines)}")
+lines = text.splitlines()
 
 result = ["#EXTM3U"]
-total = 0
-kept = 0
 
-i = 0
-while i < len(lines):
-    if lines[i].startswith("#EXTINF:"):
-        block = [lines[i]]
-        i += 1
-        while i < len(lines) and not lines[i].startswith("#EXTINF:"):
-            block.append(lines[i])
-            i += 1
+# Regex ambil nama channel & group
+# Contoh: #EXTINF:-1 tvg-name="..." group-title="EVENT..." ,001 TRAKTIR KOPI
+current_extinf = None
 
-        extinf = block[0]
-        total += 1
-        group_match = re.search(r'group-title="([^"]*)"', extinf, re.IGNORECASE)
-        group = (group_match.group(1) if group_match else "").upper()
-        name = (extinf.rsplit(",",1)[-1].strip() if "," in extinf else "").upper()
+for line in lines:
+    line = line.strip()
+    if not line:
+        continue
 
-        is_traktir = "TRAKTIR" in name or "TRAKTIK" in name
-        is_cadangan = "CADANGAN" in group or "CADANGAN" in name
+    if line.startswith("#EXTINF:"):
+        current_extinf = line
+        continue
 
-        print(f"[{total}] GROUP='{group}' | NAME='{name}' -> {'DIBUANG' if (is_traktir or is_cadangan) else 'DISIMPAN'}")
+    # Jika ini URL (atau baris setelah EXTINF)
+    if current_extinf is not None and not line.startswith("#"):
+        # Ambil group-title
+        group_match = re.search(r'group-title="([^"]*)"', current_extinf, re.IGNORECASE)
+        group = group_match.group(1) if group_match else ""
 
-        if not is_traktir and not is_cadangan:
-            result.extend(block)
-            kept += 1
+        # Ambil nama channel (setelah koma terakhir)
+        channel_name = ""
+        if "," in current_extinf:
+            channel_name = current_extinf.rsplit(",", 1)[-1].strip()
+
+        # Cek kategori EVENT
+        is_event = "EVENT" in group.upper()
+
+        # Cek channel yang dibuang
+        is_traktir = "001 TRAKTIR KOPI" in channel_name.upper()
+
+        # Simpan hanya EVENT dan bukan TRAKTIR
+        if is_event and not is_traktir:
+            result.append(current_extinf)
+            result.append(line)
+
+        current_extinf = None
     else:
-        i += 1
+        current_extinf = None
 
+# Simpan hasil
 with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(result) + "\n")
 
-print(f"=== total={total} disimpan={kept} -> {OUT_FILE} ===")
+print(f"Berhasil! Total channel EVENT (tanpa 001 TRAKTIR KOPI): {len(result)//2}")
+print(f"File disimpan di: {OUT_FILE}")
