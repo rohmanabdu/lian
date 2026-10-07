@@ -2,7 +2,7 @@ import requests
 import os
 
 # ================== CONFIG ==================
-SOURCE_URL = "https://liveloveyou.my.id/137286ec/lv.txt"
+SOURCE_URL = "https://raw.githubusercontent.com/apistech/project/refs/heads/main/playlists/liveeventsfilter.m3u8"
 OUTPUT_FILE = "playlist/rama2.m3u"  # <-- NAMA BARU SESUAI REQUEST
 
 # Tulisan yang ingin dihapus
