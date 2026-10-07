@@ -24,6 +24,9 @@ jobs:
 
       - name: Update rama2.m3u (playlist event batur)
         run: python scripts/update2.py
+      - name: Update rama3.m3u (playlist event batur)
+        run: python scripts/update3.py
+
 
       - name: Commit & Push
         run: |
