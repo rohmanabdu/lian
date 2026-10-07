@@ -2,6 +2,11 @@ name: Update Playlist Otomatis
 on:
   workflow_dispatch:
 
+# Penting: cegah 2 workflow jalan bareng dan saling tabrak
+concurrency:
+  group: update-playlist
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -9,31 +14,22 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: Update rama1.m3u
         run: python scripts/update1.py
-        
-      - name: Update rama2.m3u (playlist event batur)
+
+      - name: Update rama2.m3u
         run: python scripts/update2.py
-        
-      - name: Update rama3.m3u (playlist event batur)
+
+      - name: Update rama3.m3u
         run: python scripts/update3.py
-        
+
       - name: Commit & Push
-        run: |
-          git config --global user.name "auto-bot"
-          git config --global user.email "bot@github.com"
-          git add playlist/
-          if git diff --staged --quiet; then
-            echo "Tidak ada perubahan"
-            exit 0
-          fi
-          git commit -m "Auto update playlist - $(date -u)"
-          git pull --rebase origin main
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto update playlist - ${{ github.run_id }}"
+          file_pattern: "playlist/*"
