@@ -11,8 +11,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests
-      - name: Update rama1.m3u (Google Drive)
+      - name: Update rama1.m3u
         run: python scripts/update1.py
       - name: Update rama2.m3u (playlist event batur)
         run: python scripts/update2.py
@@ -23,5 +22,5 @@ jobs:
           git config --global user.name "auto-bot"
           git config --global user.email "bot@github.com"
           git add playlist/
-          git diff --staged --quiet || git commit -m "Auto update playlist & rama1 - $(date -u)"
+          git diff --staged --quiet || git commit -m "Auto update playlist - $(date -u)"
           git push
