@@ -1,4 +1,4 @@
-import os, re, subprocess
+import requests
 
 # Ambil playlist pakai curl, bukan requests (biar tidak 403)
 URL = "https://rebrand.ly/UPPL2026"
