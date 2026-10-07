@@ -4,7 +4,7 @@ import re
 
 URL = "https://rebrand.ly/UPPL2026"
 OUT_DIR = "playlist"
-OUT_FILE = os.path.join(OUT_DIR, "rama2.m3u")
+OUT_FILE = os.path.join(OUT_DIR, "rama3.m3u")
 os.makedirs(OUT_DIR, exist_ok=True)
 
 headers = {
