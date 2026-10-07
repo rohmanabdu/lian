@@ -23,5 +23,7 @@ jobs:
           git config --global user.name "auto-bot"
           git config --global user.email "bot@github.com"
           git add playlist/
-          git diff --staged --quiet || git commit -m "Auto update playlist & rama1 - $(date -u)"
+          git diff --staged --quiet || git commit -m "Auto update playlist - $(date -u)"
+          git pull --rebase origin main
           git push
+          
