@@ -39,7 +39,6 @@ while i < len(lines):
         name = line.split(",", 1)[1].strip() if "," in line else ""
 
         if ("EVENT" in group.upper()
-            and "CADANGAN" not in group.upper()
             and "001 TRAKTIR KOPI" not in name.upper()
             and url_found):
             result.extend(block)
