@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",18.30||LION CITY VS CONG AN HA NOI
-https://live2.domainkqt.cc/live/channel1.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",19.00||PORT FC VS PERSIB
-https://live2.domainkqt.cc/live/channel11.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",19.00||JTC FC VS PKR SPAY RIENG
-https://tfzy1gr4uqmtt8y41hcjzgezdrmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=6e32e9b3ac8f88a21555ff85c3fd493a&wsABSTime=1791502232&wsSession=64ed3e79a7ece57c6cc9459e-179145903799258&wsIPSercert=60067f3ebbad03223adf929fceeb7d8c&wsBindIP=2&wsserid=1168309213681259573
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",15.30||PERSIK VS MADURA UNITED
+https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001790881930-0-0-77c947e732ca25fc87e57a7d46897323
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",15.30||PERSIPURA VS RANS NUSANTARA
+https://play.heyangstream.com/live/5005882_F5hd01.m3u8?expire=1791547835&sign=1afccb5aeb45691b71ba9d224b9cb7e2
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",19.00|| ISENMULANG VS PERSEBAYA
+https://live2.domainkqt.cc/live/channel4.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",19.00||PSIS VS PERSIRAJA
+https://play.heyangstream.com/live/5005882_F5hd01.m3u8?expire=1791547835&sign=1afccb5aeb45691b71ba9d224b9cb7e2
