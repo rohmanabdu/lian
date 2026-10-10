@@ -1,23 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",00.00||GALATASARAY VS KASIMPASA
-https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001790881930-0-0-77c947e732ca25fc87e57a7d46897323
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",01.00||PSV VS SC HEERENVEEN
-https://live2.domainkqt.cc/live/channel18.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",01.00||AL-NASSR VS AL-DIRIYAH
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",01.30||BORRUSIA DORTMUND VS WERDER BREMEN
-https://tfzs0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=a56072572ae75114ec3516c7c158aff5&wsABSTime=1790975669&wsSession=510ff2a6e1fbdceb0434ca7c-179093247248568&wsIPSercert=b1258e89327ee56480448c0566e0eef5&wsBindIP=2&wsserid=1168287765269359649
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",01.45||LENS VS LYON
-https://tfzy1gr4uqmtt8y41hcjzgezdrmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=6e32e9b3ac8f88a21555ff85c3fd493a&wsABSTime=1791502232&wsSession=64ed3e79a7ece57c6cc9459e-179145903799258&wsIPSercert=60067f3ebbad03223adf929fceeb7d8c&wsBindIP=2&wsserid=1168309213681259573
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",01.45||BEREVEN VS LOMEL SK
-https://live2.domainkqt.cc/live/channel13.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",02.00||MALAGA VS ESPANYOL
-https://tfzr6gr3uomttgr31hctwgczdncjufisg17ufgr.100ycdn.com/live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=d3154af06ddadc3e57f5e1713fddbb42&wsABSTime=1790924976&wsSession=72f1ecafa8570fdd8c78ecfe-179088178050900&wsIPSercert=5fe7a668fccf187d77e92164a3b804cf&wsBindIP=2&wsserid=19560480166232750
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",02.15||SC BRAGA VS SPORTING CP
-https://live2.domainkqt.cc/live/channel14.m3u8
 #EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",15.30||AREMA FC VS BHAYANHGKARA
 https://live2.domainkqt.cc/live/channel4.m3u8
 #EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",15.30||PERSITA VS GARUDAYAKSA
 https://live2.domainkqt.cc/live/channel11.m3u8
 #EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",15.30||PSIM VS PERSIJA
-https://tfzz0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel22/playlist.m3u8?wsSecret=f45732a7504ecee296c89824a5075f5f&wsABSTime=1791607143&wsSession=1e288d1dc142165bdcd022fa-179156394844759&wsIPSercert=c9090bdf5a24c827cbdce62fc0e17348&wsBindIP=2&wsserid=1168287746140338896
+https://live2.domainkqt.cc/live/channel21.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",15.30||SUMSEL VS PERSIKU
+https://play.heyangstream.com/live/5009490_F5hd01.m3u8?expire=1791634157&sign=a04763b90f4f72c3d626572f5708d995
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",18.30||ARSENAL VS LEEDS UNITED
+https://live2.domainkqt.cc/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",19.00||RAYO VALLECANO VS ATHLETIC CLUB
+https://live2.domainkqt.cc/live/channel11.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",19.00||BALI UNITED VS PERSIJAP JEPARA
+https://tg000gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel19/playlist.m3u8?wsSecret=8aef90dca23ef22b9fadf25877d38c97&wsABSTime=1791662926&wsSession=6e5e48cde178b0231176ecbe-179161973158089&wsIPSercert=a3f426797f3e54685820c808831a7c3f&wsBindIP=2&wsserid=1168287746149776142
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",20.00||GENOA VS FLORENTINA
+https://live2.domainkqt.cc/live/channel4.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",20.00||SAMSUNSPOR VS TRAPZONSPOR
+https://live2.domainkqt.cc/live/channel17.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",20.30||AUZBURG VS BAYERN MUNCHEN
+https://live2.domainkqt.cc/live/channel16.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",20.30||MAINZ 05 VS BAYERN LEVERKUZEN
+https://live2.domainkqt.cc/live/channel19.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",20.30||PADEBOM VS VFB STUTGARD
+https://live2.domainkqt.cc/live/channel13.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",21.00||ASTON VILLA VS BRENTFORD
+https://live2.domainkqt.cc/live/channel5.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",21.00||CHEALSEA VS BOURNEMOURD
+https://live2.domainkqt.cc/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",21.00||IPSWITCH VS FULLHAM
+https://tfzy1gr4uqmtt8y41hcjzgezdrmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=6e32e9b3ac8f88a21555ff85c3fd493a&wsABSTime=1791502232&wsSession=64ed3e79a7ece57c6cc9459e-179145903799258&wsIPSercert=60067f3ebbad03223adf929fceeb7d8c&wsBindIP=2&wsserid=1168309213681259573
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",21.00||SUNDERLAND VS BRIGHTON
+https://tfzs0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=a56072572ae75114ec3516c7c158aff5&wsABSTime=1790975669&wsSession=510ff2a6e1fbdceb0434ca7c-179093247248568&wsIPSercert=b1258e89327ee56480448c0566e0eef5&wsBindIP=2&wsserid=1168287765269359649
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",21.15||DEPORTIVO VS ATLETICO MADRID
+https://live2.domainkqt.cc/live/channel11.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",21.30||GO AHEAD VS SPARTA
+https://live2.domainkqt.cc/live/channel7.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",22.15||LILE VS LE HARVE
+https://live2.domainkqt.cc/live/channel4.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",23.00||INTER MILAN VS PARMA
+https://live2.domainkqt.cc/live/channel19.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",23.00||RIZESPOR VS FENERBAHCE
+https://tg000gr3uomttgr31hctwgazdoc3pptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel27/playlist.m3u8?wsSecret=97f3142172d1bb95218aadb355ae75ea&wsABSTime=1791665419&wsSession=db9d8616f6d77850ea1dd38c-179162222499448&wsIPSercert=b671eab39115b3cf00efe35c2aff2d12&wsBindIP=2&wsserid=1168278524584609170
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",23.30||MACHESTER UNITED VS TOTTENHAM HOTSPUR
+https://live2.domainkqt.cc/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",23.30||BARCELONA VS GETAFE
+https://tfzr6gr3uomttgr31hctwgczdncjufisg17ufgr.100ycdn.com/live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=d3154af06ddadc3e57f5e1713fddbb42&wsABSTime=1790924976&wsSession=72f1ecafa8570fdd8c78ecfe-179088178050900&wsIPSercert=5fe7a668fccf187d77e92164a3b804cf&wsBindIP=2&wsserid=19560480166232750
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",23.30||RB LEIPZIG VS EINTRAGT
+https://live2.domainkqt.cc/live/channel18.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",23.45||FEYENORD VS AL-AZKMR
+https://live2.domainkqt.cc/live/channel21.m3u8
