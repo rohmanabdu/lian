@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",15.30||JAVA UNITED VS BORNEO FC
-https://live2.domainkqt.cc/live/channel24.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",15.30||PSS SLEMAN VS PSM MAKASSAR
-https://live2.domainkqt.cc/live/channel4.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",15.30||PERSELA LAMONGAN VS DELTRAS FC
-https://play.heyangstream.com/live/5009518_F5hd01.m3u8?expire=1791721018&sign=8f43d99dbbcf1e48e87a1889b003514a
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",15.30|PSPS PEKANBARU VS PSMS MEDAN
-https://play.heyangstream.com/live/5007299_F5hd01.m3u8?expire=1791720116&sign=e4cb46b6ae973f3ace54a8c3a4821228
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",19.00||PERSIB BANDUNG VS DEWA UNITED
+https://play.heyangstream.com/live/5007582_F5hd01.m3u8?expire=1791733716&sign=a64d49c6dfa93d22107aa3347c56c647
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",19.00||PERSIKAD DEPOK VS SEMEN PADANG
+https://play.heyangstream.com/live/5007419_F5hd01.m3u8?expire=1791733349&sign=5d5347542ceb480d54c501d1b554b64c
