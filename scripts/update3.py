@@ -1,54 +1,77 @@
+import requests
 import os
-import re
-from urllib.request import Request, urlopen
 
-URL = "https://rebrand.ly/UPPL2026"
-OUT_DIR = "playlist"
-OUT_FILE = os.path.join(OUT_DIR, "rama3.m3u")
-os.makedirs(OUT_DIR, exist_ok=True)
+# ================== CONFIG ==================
+SOURCE_URL = "https://raw.githubusercontent.com/apistech/project/refs/heads/main/playlists/liveeventsfilter.m3u8"
+OUTPUT_FILE = "playlist/rama2.m3u"  # <-- NAMA BARU SESUAI REQUEST
 
-req = Request(URL, headers={"User-Agent": "Mozilla/5.0"})
-with urlopen(req, timeout=60) as resp:
-    text = resp.read().decode("utf-8", errors="ignore").lstrip("\ufeff")
+# Tulisan yang ingin dihapus
+REMOVE_TEXT = "Gvision TV"
 
-lines = text.splitlines()
-result = ["#EXTM3U"]
-kept = skipped = 0
-i = 0
-while i < len(lines):
-    line = lines[i].strip()
-    if line.startswith("#EXTINF"):
-        block = [line]
-        j = i + 1
-        url_found = False
-        while j < len(lines):
-            nxt = lines[j].strip()
-            if nxt.startswith("#EXTINF"):
-                break
-            block.append(nxt)
-            if "http://" in nxt or "https://" in nxt:
-                url_found = True
-                j += 1
-                break
-            j += 1
+# DAFTAR LOGO YANG DIGANTI
+LOGO_REPLACEMENTS = [
+    {
+        "old": "https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFFFF",
+        "new": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10"
+    },
+    {
+        "old": "https://i.ibb.co.com/d15rKps/20260701-044822.jpg",
+        "new": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10"
+    },
+    {
+        "old": "https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=00FA9A",
+        "new": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10"
+    },
+    {
+        "old": "https://i.ibb.co.com/LXD7m275/20260730-120141.jpg",
+        "new": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10"
+    },
+    {
+        "old": "https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493",
+        "new": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10"
+    },
+]
+# ============================================
 
-        group = ""
-        m = re.search(r'group-title="([^"]+)"', line)
-        if m:
-            group = m.group(1)
-        name = line.split(",", 1)[1].strip() if "," in line else ""
+def main():
+    os.makedirs("playlist", exist_ok=True)
+    
+    print(f"Ambil: {SOURCE_URL}")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Accept": "text/plain,*/*"
+    }
+    r = requests.get(SOURCE_URL, headers=headers, timeout=30)
+    r.raise_for_status()
+    playlist = r.text
+    print(f"Awal: {len(playlist)} char")
 
-        if ("EVENT" in group.upper()
-            and "001 TRAKTIR KOPI" not in name.upper()
-            and url_found):
-            result.extend(block)
-            kept += 1
-        else:
-            skipped += 1
-        i = j
-    else:
-        i += 1
+    # 1. HAPUS TULISAN Gvision TV
+    playlist = playlist.replace(REMOVE_TEXT, "")
 
-with open(OUT_FILE, "w", encoding="utf-8") as f:
-    f.write("\n".join(result) + "\n")
-print(f"Diambil: {kept}, Dibuang: {skipped}, Saved -> {OUT_FILE}")
+    # 2. BERSIHKAN TANDA |
+    playlist = playlist.replace("| ", "").replace(" |", "")
+
+    # 3. GANTI SEMUA LOGO
+    for logo in LOGO_REPLACEMENTS:
+        if logo.get("old") and logo.get("new"):
+            playlist = playlist.replace(logo["old"], logo["new"])
+
+    # 4. BERSIHKAN SPASI BERLEBIH
+    playlist = "\n".join([line.rstrip() for line in playlist.split("\n")])
+
+    # 5. PASTIKAN NEWLINE DI AKHIR
+    if not playlist.endswith("\n"):
+        playlist += "\n"
+
+    # 6. PASTIKAN ADA #EXTM3U
+    if not playlist.strip().startswith("#EXTM3U"):
+        playlist = "#EXTM3U\n" + playlist
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write(playlist)
+
+    print(f"SELESAI -> {OUTPUT_FILE} siap, {len(playlist.splitlines())} baris")
+
+if __name__ == "__main__":
+    main()
