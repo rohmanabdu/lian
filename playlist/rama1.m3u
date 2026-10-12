@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",19.00||PERSIB BANDUNG VS DEWA UNITED
-https://play.heyangstream.com/live/5007582_F5hd01.m3u8?expire=1791733716&sign=a64d49c6dfa93d22107aa3347c56c647
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE HARI INI",19.00||PERSIKAD DEPOK VS SEMEN PADANG
-https://play.heyangstream.com/live/5007419_F5hd01.m3u8?expire=1791733349&sign=5d5347542ceb480d54c501d1b554b64c
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="KOVO CUP 2026",🔥KOREA EXPRESSWAY VS HYUNDAI HILLSTATE
+https://live2.domaincdn.cc/livecdn/channel-33.m3u8?auth_key=3000001791829302-0-0-14241fb825b6f34826c101621fb1ee53
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="KOVO CUP 2026",🔥HYUNDAI HILLSTATE VS GS CALTEX SEOUL KIXX
+https://live2.domaincdn.cc/livecdn/channel-33.m3u8?auth_key=3000001791829302-0-0-14241fb825b6f34826c101621fb1ee53
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="AFC CHAMPIONS LEAGUE ELITE",AL-NASSR VS NETFLCHI FERGANA
+https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001791834746-0-0-2105e96225e72b91587ca4dd53246f74
