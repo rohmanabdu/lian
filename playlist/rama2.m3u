@@ -2,19 +2,29 @@
 # ===== SOURCE 2 =====
 #EXTINF:-1 tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" group-title="LIVE EVENT",12:05 WIB FARM FRESH FOXIES vs GALERIES TOWER HIGHRISERS - Philippine League
 https://live.eu-north-1b.cf.dmcdn.net/sec2(DjddAuOo4FUUnCti8F1eGc1FeGC4vMBD0H5UqXjDuegQeWtQsU0K_XwkXzmN5r2eeos7McKGZkcc1SN98SOhQREPkTrYr2Uh5CwTSOlk-w4ZbjhWUekdP_ibmja1fqmu4MCJMm-BCmEeT-IK4eNSLDLvdbaauFJRGPVBKvxJ8LQj5aeBxOJrgjXDOIl59c9o)/dm/4/xbm6dbu/live-h264-1080.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/GoGf3",13:30 WIB Daejeon KGC W VS AI Peppers Women W KBSN SPORTS
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0005/u7fad83c0j82jpyqyljprkidfgka1xqdmqtq/allapww9siwpxxbjlur0zcvgka1xqdmmgv_hls_playlist.m3u8?hdnts=st=1791872474~exp=1791933684~acl=*/u7fad83c0j82jpyqyljprkidfgka1xqdmqtq/*~hmac=6cb880b867cc9e64b06bbc7f520f1cd59ad29845790e5d6098e4b4ddcb4947d7&vp=47DEQpj8HBSa-_TIKgc8JzIZ-OGi_6-I5_uDpg
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/GoGf3",13:30 WIB Daejeon KGC W VS AI Peppers Women W XOILACZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel33.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/GoGf3" group-title="LIVE EVENT",13:30 WIB Daejeon KGC W VS AI Peppers Women W SBS SPORTS
+http://mnet.x10.mx/koreaiptv/gorealra.php/.m3u8?channelPath=sbsespnpc&streamName=sbsespn2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open Court 3 XOILACZ
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=4d9a4cf43bc162f7cebc248705cf1ae7&wsABSTime=1791903388
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open Court 4 XOILACZ
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=4d9a4cf43bc162f7cebc248705cf1ae7&wsABSTime=1791903388
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open Court 5 XOILACZ
 https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=4d9a4cf43bc162f7cebc248705cf1ae7&wsABSTime=1791903388
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/GoGf3",[Belum Mulai] 13:30 WIB Daejeon KGC W VS AI Peppers Women W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel33.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/-zy9I",[Belum Mulai] 14:00 WIB VICTOR Denmark Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/-zy9I",[Belum Mulai] 14:00 WIB VICTOR Denmark Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/-zy9I",[Belum Mulai] 14:00 WIB VICTOR Denmark Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:12:02 PM 13-10-2026
+#LAST_UPDATE:12:32 PM 13-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -24,13 +34,13 @@ https://live2.jorvakstreamcache.com/live/channel33.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd
 #EXTINF:-1 tvg-id="B0H9P32ZB8" tvg-name="Early First Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.77c632be-cc57-43c5-8d86-f252e805589a/5/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Early First Round  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 # ===== SOURCE 4 =====
 # ===== SOURCE 5 =====
 #EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/187575/image",13:00 WIB Afghanistan vs Bangladesh Cricket WILLOW - AQ
@@ -64,12 +74,12 @@ https://live.eu-north-1b.cf.dmcdn.net/sec2(DjddAuOo4FUUnCti8F1eGc1FeGC4vMBD0H5Uq
 #EXTINF:-1 tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" group-title="Live Event: Voli",[Belum Mulai] 17:00 WIB NXLED CHAMELEONS vs PLDT HIGH SPEED HITTERS â Philippine League
 https://live.eu-north-1b.cf.dmcdn.net/sec2(DjddAuOo4FUUnCti8F1eGc1FeGC4vMBD0H5UqXjDuegQeWtQsU0K_XwkXzmN5r2eeos7McKGZkcc1SN98SOhQREPkTrYr2Uh5CwTSOlk-w4ZbjhWUekdP_ibmja1fqmu4MCJMm-BCmEeT-IK4eNSLDLvdbaauFJRGPVBKvxJ8LQj5aeBxOJrgjXDOIl59c9o)/dm/4/xbm6dbu/live-h264-1080.m3u8
 # ===== SOURCE 8 =====
+#EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10", ALLIANZ Malaysia Super 100 2026 Court 1 Twitch
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba01
 #EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10", ALLIANZ Malaysia Super 100 2026 Court 2 Twitch
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba02
 #EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10", ALLIANZ Malaysia Super 100 2026 Court 3 Twitch
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba03
-#EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10", ALLIANZ Malaysia Super 100 2026 Court 4 Twitch
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba04
 # ===== SOURCE 9 =====
 #EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg", ALLIANZ Malaysia Super 100 2026 Court 1 Huya
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805928
@@ -77,8 +87,6 @@ http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805929
 #EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg", ALLIANZ Malaysia Super 100 2026 Court 3 Huya
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805930
-#EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg", ALLIANZ Malaysia Super 100 2026 Court 4 Huya
-http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805931
 # ===== SOURCE 10 =====
 #EXTINF:-1 tvg-id="badminton_1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", Denmark Open Court 3 XOILACZ
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=4d9a4cf43bc162f7cebc248705cf1ae7&wsABSTime=1791903388
