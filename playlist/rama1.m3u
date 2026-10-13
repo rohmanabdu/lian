@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="KOVO CUP 2026",🔥KOREA EXPRESSWAY VS HYUNDAI HILLSTATE
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="KOVO CUP 2026",17.00||PINK SPIDER VS ALTOS
 https://live2.domaincdn.cc/livecdn/channel-33.m3u8?auth_key=3000001791829302-0-0-14241fb825b6f34826c101621fb1ee53
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="KOVO CUP 2026",🔥HYUNDAI HILLSTATE VS GS CALTEX SEOUL KIXX
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="KOVO CUP 2026",KOREA EXPRESSWAY VS HYUNDAI HILLSTATE
+https://live2.domaincdn.cc/livecdn/channel-33.m3u8?auth_key=3000001791829302-0-0-14241fb825b6f34826c101621fb1ee53
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="KOVO CUP 2026",HYUNDAI HILLSTATE VS GS CALTEX SEOUL KIXX
 https://live2.domaincdn.cc/livecdn/channel-33.m3u8?auth_key=3000001791829302-0-0-14241fb825b6f34826c101621fb1ee53
 #EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 13-OKT-26",19.15||CONG AN HAI VS KASHIMA
 https://live2.domainkqt.cc/live/channel1.m3u8
