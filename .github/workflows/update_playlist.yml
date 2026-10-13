@@ -1,8 +1,6 @@
 name: Update Playlist Otomatis
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: '0 */6 * * *'  # auto tiap 6 jam, hapus # jika mau aktif
 
 jobs:
   update:
@@ -23,20 +21,22 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Update rama1.m3u (Google Drive)
+      - name: Pull latest first
+        run: git pull --rebase origin main
+
+      - name: Update rama1.m3u
         run: python scripts/update1.py
 
-      - name: Update rama2.m3u (playlist event batur)
+      - name: Update rama2.m3u
         run: python scripts/update2.py
 
-      - name: Update rama3.m3u (playlist event batur)
+      - name: Update rama3.m3u
         run: python scripts/update3.py
 
       - name: Commit & Push
         run: |
           git config --global user.name "auto-bot"
           git config --global user.email "bot@github.com"
-          git pull --rebase origin main
           git add playlist/
           git add -A
           git diff --staged --quiet || git commit -m "Auto update playlist - $(date -u +'%Y-%m-%d %H:%M UTC')"
