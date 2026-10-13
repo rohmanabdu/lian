@@ -23,97 +23,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Atletico Madrid vs Manchester United Football VIX SPANISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c37d2f7ce64f0c34b5c9975b7e095220:cd0d9f33984364d05b0079a04ece8d44
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8akj9pufyn/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Atletico Madrid vs Manchester United Football beIN ARABIC - AQ
-#EXTVLCOPT:http-referrer=https://www.arena8x.live/
-https://cdn-v2.gamhed.online/hls/arena8x-3.m3u8?|Referer=https://www.arena8x.live/
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Atletico Madrid vs Manchester United Football PREMIER SPORTS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream2.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Atletico Madrid vs Manchester United Football VIX SPANISH HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream6.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Atletico Madrid vs Manchester United Football HD SERVER
-https://www.rtmpcdn.com/live/af9d1bd7-9bab-480b-ac37-d01c4caf935b.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Arsenal vs Lille Football TNT SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Arsenal vs Lille Football VIX SPANISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b43f93133bfffc44ec677f5aee99461:18e41489743e676ba219242f9a334b3c
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a6lfspkmlh/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Arsenal vs Lille Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Galatasaray vs FC Barcelona Football TNT SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Galatasaray vs FC Barcelona Football beIN ARABIC - AQ
-#EXTVLCOPT:http-referrer=https://www.arena8x.live/
-https://cdn-v2.gamhed.online/hls/arena8x-1.m3u8?|Referer=https://www.arena8x.live/
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Galatasaray vs FC Barcelona Football beIN SPORTS HD
-https://live1.dyrur1.com/live/14387788_89854c7489d2f5fbf72167c7fd94fe1b_1080p.m3u8?auth_key=1791932249-0-0-23bc3313e311e7d2ea47fd06a08e1919
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Galatasaray vs FC Barcelona Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream5.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Inter vs Club Brugge KV Football VIX SPANISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9da4d78e1da6b886e01865fe743fe115:ffc010bc742aac27abdea3410a7a3cc3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lvt2e0ylbr/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Inter vs Club Brugge KV Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream2.pro/hls/ueyeztrazb4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB RB Leipzig vs PSV Eindhoven Football VIX SPANISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1f368d7af874fa0b4d7332a857783c1:1df543243dd7e13cd3fcc51271cff096
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ndlblrubcs/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB RB Leipzig vs PSV Eindhoven Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream7.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Viking FK vs FC Bayern Munchen Football TNT SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Viking FK vs FC Bayern Munchen Football VIX SPANISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=754eca7e82e2c4ae2a913458fe33412b:64683c1fe33dce3e46ffd6895b57ad76
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6egioqgr7u/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Viking FK vs FC Bayern Munchen Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream5.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Villarreal vs SSC Napoli Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream7.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://shorter.me/UXCX0" group-title="LIVE EVENT",02:00 WIB Stoke City vs Middlesbrough Football beIN ENGLISH - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open Court 1 XOILACZ
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=4d9a4cf43bc162f7cebc248705cf1ae7&wsABSTime=1791903388
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open Court 2 XOILACZ
@@ -122,7 +31,7 @@ https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=4d9a4cf43bc162f7
 https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=4d9a4cf43bc162f7cebc248705cf1ae7&wsABSTime=1791903388
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:02:32 AM 14-10-2026
+#LAST_UPDATE:03:32 AM 14-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:6
@@ -132,25 +41,25 @@ https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=4d9a4cf43bc162f7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-id="B0HK43WKWQ" tvg-name="Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.414ddf7a-cff0-4ffc-a6f6-25d3b6afa61e/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42ee24e61938f5395a320a18f927c9f1:6c9418d9d37358cde3f1337e8378862d
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/h7qmdaswdf/out/v1/1df74ff84f564705957d5495202239d6/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-id="B0HMNKW3WQ" tvg-name="Atlanta Open T20 2026 - 4th Match - Atlanta Fire vs Seattle Thunderbolts" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.79595a23-68e4-4b57-afed-d758f30cb2a6/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Atlanta Open T20 2026 - 4th Match - Atlanta Fire vs Seattle Thunderbolts  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a66ae8ce3f5446d110eb2445e1abeac:b79d94ff5201b1c22f4e3db30f663f1b
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jygfejg9fp/out/v1/35c3361012a5422993a811d09b16c842/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jygfejg9fp/out/v1/35c3361012a5422993a811d09b16c842/cenc.mpd
+#EXTINF:-1 tvg-id="B0HK43WKWQ" tvg-name="Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.414ddf7a-cff0-4ffc-a6f6-25d3b6afa61e/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42ee24e61938f5395a320a18f927c9f1:6c9418d9d37358cde3f1337e8378862d
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/h7qmdaswdf/out/v1/1df74ff84f564705957d5495202239d6/cenc.mpd
 #EXTINF:-1 tvg-id="B0HMC7M36S" tvg-name="Atlanta Open T20 2026 - 5th Match - RR Stars vs St. Louis Americans" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8183e238-3d9f-4554-acb4-a41159b3cb1f/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Atlanta Open T20 2026 - 5th Match - RR Stars vs St. Louis Americans  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=374047b955187df29f4e4a80e0c6fa74:6f52b8541eb0d29141f5ee531128930a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kgalftflgg/out/v1/97adfa9f5dc7413cb7953353402687b8/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kgalftflgg/out/v1/97adfa9f5dc7413cb7953353402687b8/cenc.mpd
 # ===== SOURCE 4 =====
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810253859132_KHC_promo_landscape_thumb_simulcast.jpg" group-title="Live Event: Sony Liv 1", Kon Honaar Crorepati Kon Honaar Crorepati MAR Sony Liv
 https://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E2_11310/MAR/std_lrh-800300010.m3u8?hdnea=exp=1791927821~acl=/*~id=80833861588108440878435364309951~hmac=99669421026220ee55cbf288cd22cfe47e31cbd790befc0f95351c976036632f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dd15a52d6359cf8369f0f4f4b81f8c80-1791905401750
@@ -165,97 +74,6 @@ https://sonymtmnew.akamaized.net/hls/live/2120303/Archery_1310/ENG/std_lrh-80030
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025826/179109030000422_UYL26_Villarreal_vs_Napoli_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Villarreal vs Napoli UEFA Youth League 2026-27 ENG Sony Liv
 https://sonymtmnew.akamaized.net/hls/live/2022316/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791927821~acl=/*~id=80833861588108440878435364309951~hmac=99669421026220ee55cbf288cd22cfe47e31cbd790befc0f95351c976036632f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dd15a52d6359cf8369f0f4f4b81f8c80-1791905401750
 # ===== SOURCE 5 =====
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2836/image",02:00 WIB Atletico Madrid vs Manchester United Football VIX SPANISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c37d2f7ce64f0c34b5c9975b7e095220:cd0d9f33984364d05b0079a04ece8d44
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8akj9pufyn/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2836/image",02:00 WIB Atletico Madrid vs Manchester United Football beIN ARABIC - AQ
-#EXTVLCOPT:http-referrer=https://www.arena8x.live/
-https://cdn-v2.gamhed.online/hls/arena8x-3.m3u8?|Referer=https://www.arena8x.live/
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2836/image",02:00 WIB Atletico Madrid vs Manchester United Football PREMIER SPORTS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream2.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2836/image",02:00 WIB Atletico Madrid vs Manchester United Football VIX SPANISH HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream6.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2836/image",02:00 WIB Atletico Madrid vs Manchester United Football HD SERVER
-https://www.rtmpcdn.com/live/af9d1bd7-9bab-480b-ac37-d01c4caf935b.m3u8
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/42/image",02:00 WIB Arsenal vs Lille Football TNT SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/42/image",02:00 WIB Arsenal vs Lille Football VIX SPANISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b43f93133bfffc44ec677f5aee99461:18e41489743e676ba219242f9a334b3c
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a6lfspkmlh/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/42/image",02:00 WIB Arsenal vs Lille Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/3061/image",02:00 WIB Galatasaray vs FC Barcelona Football TNT SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/3061/image",02:00 WIB Galatasaray vs FC Barcelona Football beIN ARABIC - AQ
-#EXTVLCOPT:http-referrer=https://www.arena8x.live/
-https://cdn-v2.gamhed.online/hls/arena8x-1.m3u8?|Referer=https://www.arena8x.live/
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/3061/image",02:00 WIB Galatasaray vs FC Barcelona Football beIN SPORTS HD
-https://live1.dyrur1.com/live/14387788_89854c7489d2f5fbf72167c7fd94fe1b_1080p.m3u8?auth_key=1791932249-0-0-23bc3313e311e7d2ea47fd06a08e1919
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/3061/image",02:00 WIB Galatasaray vs FC Barcelona Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream5.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2697/image",02:00 WIB Inter vs Club Brugge KV Football VIX SPANISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9da4d78e1da6b886e01865fe743fe115:ffc010bc742aac27abdea3410a7a3cc3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lvt2e0ylbr/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2697/image",02:00 WIB Inter vs Club Brugge KV Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream2.pro/hls/ueyeztrazb4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/36360/image",02:00 WIB RB Leipzig vs PSV Eindhoven Football VIX SPANISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1f368d7af874fa0b4d7332a857783c1:1df543243dd7e13cd3fcc51271cff096
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ndlblrubcs/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/36360/image",02:00 WIB RB Leipzig vs PSV Eindhoven Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream7.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/1164/image",02:00 WIB Viking FK vs FC Bayern Munchen Football TNT SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/1164/image",02:00 WIB Viking FK vs FC Bayern Munchen Football VIX SPANISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=754eca7e82e2c4ae2a913458fe33412b:64683c1fe33dce3e46ffd6895b57ad76
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6egioqgr7u/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/1164/image",02:00 WIB Viking FK vs FC Bayern Munchen Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream5.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2819/image",02:00 WIB Villarreal vs SSC Napoli Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream7.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/29/image",02:00 WIB Stoke City vs Middlesbrough Football beIN ENGLISH - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 # ===== SOURCE 6 =====
 #PLAYLIST:Willow Cricket Event Info
 #LAST_UPDATE:12:02 AM 14-10-2026
