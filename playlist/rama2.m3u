@@ -1,11 +1,41 @@
 #EXTM3U
 # ===== SOURCE 2 =====
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",VICTOR Denmark Open 2026 Court 1 Huya
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR Court 1 Huya
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",VICTOR Denmark Open 2026 Court 2 Huya
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR Court 2 Huya
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805929
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",VICTOR Denmark Open 2026 Court 3 Huya
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR Court 3 Huya
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805930
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/VJWW_",23:45 WIB Lech PoznaÅ vs Bayer Leverkusen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/VJWW_",23:45 WIB Olympique Lyonnais vs Crystal Palace
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/VJWW_",23:45 WIB Union Saint-Gilloise vs Real Sociedad
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/VJWW_",23:45 WIB Salzburg vs Milan
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/VJWW_",23:45 WIB Torreense vs Sunderland
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/NzYuB",23:45 WIB CSU Craiova vs Getafe
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open XOILACZ
@@ -13,38 +43,286 @@ https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=ffd70a9845e85f29
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg" group-title="LIVE EVENT",Delhi Dynamites vs Tamil Titans India Volleyball Championship League 2026  Sony Liv
-https://sonymtmnew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8a97344df7329b32f88185019fabcb3f-1792078200212
+https://sonymtmnew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2950/image" group-title="LIVE EVENT",23:45 WIB AZ Alkmaar vs Hapoel Beer Sheva Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8a9ae28d02e0f77b6aa6ebf5c188a14:6c569f2bb738098d8affc3694aaf2465
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xd5wxim36l/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2950/image" group-title="LIVE EVENT",23:45 WIB AZ Alkmaar vs Hapoel Beer Sheva Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3121/image" group-title="LIVE EVENT",23:45 WIB Lech Poznan vs Bayer 04 Leverkusen Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2413/image" group-title="LIVE EVENT",23:45 WIB NK Celje vs Omonia Nicosia Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=179d6fc50606be0d935d80e71e5b49e4:51ce29944f9e6ac81a27b617defb56bf
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1zzeullfzf/out/v1/f6966293221c45ed8f84623aef615fde/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2413/image" group-title="LIVE EVENT",23:45 WIB NK Celje vs Omonia Nicosia Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120307/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1649/image" group-title="LIVE EVENT",23:45 WIB Olympique Lyonnais vs Crystal Palace Football TNT SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1649/image" group-title="LIVE EVENT",23:45 WIB Olympique Lyonnais vs Crystal Palace Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71eb0af995a7ea26b340e966863e38fb:5fff5b455989c16fb0e34b55dccc3d3b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4grbd6fvyu/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1649/image" group-title="LIVE EVENT",23:45 WIB Olympique Lyonnais vs Crystal Palace Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",23:45 WIB Red Bull Salzburg vs AC Milan Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2218/image" group-title="LIVE EVENT",23:45 WIB AC Sparta Praha vs Lillestrm SK Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",23:45 WIB Royale Union Saint-Gilloise vs Real Sociedad Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120301/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/25787/image" group-title="LIVE EVENT",23:45 WIB Torreense vs Sunderland Football TNT SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/25787/image" group-title="LIVE EVENT",23:45 WIB Torreense vs Sunderland Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120308/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",23:45 WIB CSKA Sofia vs AS Monaco Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25e66b34d2e44ffec33fa0333cf65ded:be64ba039c84fadafe9b2b9bbc472281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3jrnfwr0bh/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",23:45 WIB CSKA Sofia vs AS Monaco Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2022317/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f3d8babfe642240de33671d45b1c1952-1792081800725
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2036/image" group-title="LIVE EVENT",23:45 WIB HNK Hajduk Split vs AFC Ajax Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40e401e1cbaf4a4cdeb68489dfe23dea:06e5ac3b4a716f062db7f8b14b51ef20
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nbvkcuwbh1/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2036/image" group-title="LIVE EVENT",23:45 WIB HNK Hajduk Split vs AFC Ajax Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2018458/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2244/image" group-title="LIVE EVENT",23:45 WIB Kuopion Palloseura vs Trabzonspor Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5529ce921bc5d8554b925065f86af002:6ad8a302a2876d1df1e327572fcf96d3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0xpf4sc6qx/out/v1/5d42e59ea86d400e93409185d674194c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2244/image" group-title="LIVE EVENT",23:45 WIB Kuopion Palloseura vs Trabzonspor Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f3d8babfe642240de33671d45b1c1952-1792081800725
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/264619/image" group-title="LIVE EVENT",23:45 WIB KF Egnatia vs FC Midtjylland Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed59f2a2b2ba9771149b03b66a893ba7:5977784d16e815f27e300c64642a25b7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kqscdnntow/out/v1/bdab973002a441e59ec79082d0492fb6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2903/image" group-title="LIVE EVENT",23:45 WIB KAA Gent vs AGF Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c6d29a512d79d431d8365135f81a7d8:de3700334f14a1daca70595d870e39e2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/sfpvcgqtls/out/v1/22c3f3c1e99c4c38b8e543d375d80046/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2903/image" group-title="LIVE EVENT",23:45 WIB KAA Gent vs AGF Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f3d8babfe642240de33671d45b1c1952-1792081800725
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2443/image" group-title="LIVE EVENT",23:45 WIB FC Lugano vs FK Crvena zvezda Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2005445/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f3d8babfe642240de33671d45b1c1952-1792081800725
+#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",23:45 WIB Universitatea Craiova vs Getafe Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2094589/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f3d8babfe642240de33671d45b1c1952-1792081800725
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:09:32 PM 15-10-2026
+#LAST_UPDATE:10:32 PM 15-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
 #EXTINF:-1 tvg-id="B0HMKKD99P" tvg-name="Michigan Cricket Stars vs. Prime Gladiators" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00a56287-b1a8-4bc4-99bb-5b24f88d30ce/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Michigan Cricket Stars vs. Prime Gladiators  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-id="B0HLLCLKG9" tvg-name="Powerball Cup, Round 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f6ce651a-8392-4a7b-850b-541001963d8b/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Powerball Cup. Round 1  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+#EXTINF:-1 tvg-id="B0H94RC4Y4" tvg-name="PPA Tour: Virginia Beach Open-Round of 16" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0ba92d51-7e50-4797-87a2-155f49b4f020/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",PPA Tour: Virginia Beach Open-Round of 16  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 # ===== SOURCE 4 =====
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810253859132_KHC_promo_landscape_thumb_simulcast.jpg" group-title="Live Event: Sony Liv 1", Kon Honaar Crorepati Kon Honaar Crorepati MAR Sony Liv
-https://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E4_11510/MAR/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8a97344df7329b32f88185019fabcb3f-1792078200212
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023823/1789112795931380_KBC_S18_simulcast_11sep_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Kaun Banega Crorepati Kaun Banega Crorepati HIN Sony Liv
-https://sonymtmnew.akamaized.net/hls/live/2022321/kbc181510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8a97344df7329b32f88185019fabcb3f-1792078200212
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663921276476_APL26_Rajputana_Royals_vs_Mighty_Marathas_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Rajputana Royals vs Mighty Marathas Archery Premier League 2026 ENG Sony Liv
-https://sonymtmnew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8a97344df7329b32f88185019fabcb3f-1792078200212
+https://sonymtmnew.akamaized.net/hls/live/2022321/kbc181510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Delhi Dynamites vs Tamil Titans Volleyball Championship League 2026 ENG Sony Liv
-https://sonymtmnew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8a97344df7329b32f88185019fabcb3f-1792078200212
+https://sonymtmnew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Delhi Dynamites vs Tamil Titans Volleyball Championship League 2026 HIN Sony Liv
-https://sonymtmnew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8a97344df7329b32f88185019fabcb3f-1792078200212
+https://sonymtmnew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Lyon vs Crystal Palace - MD2 UEFA Europa League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026438/1792074113208911_UEL_MD2_Salzburg-vs-Milan_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Salzburg vs Milan UEFA Europa League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025913/1791208799796807_UEL_MD2_Torreense-vs-Sunderland_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Torreense vs Sunderland UEFA Europa League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2120308/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025913/1791204810910807_UEL_MD2_Lech-Poznan-vs-Leverkusen_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Lech PoznaÅ vs Leverkusen UEFA Europa League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791202097738285_UEL_MD2_Union-SG-vs-Real-Sociedad_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Union SG vs Real Sociedad UEFA Europa League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2120301/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791200795777285_UEL_MD2_AZ-Alkmaar-vs-H-Beer-Sheva_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", AZ Alkmaar vs H. Beer-Sheva UEFA Europa League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025913/1791203885441807_UEL_MD2_Sparta-Praha-vs-Lillestrom_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Sparta Praha vs LillestrÃ¸m UEFA Europa League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025913/1791208429296807_UEL_MD2_Celje-vs-Omonia_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Celje vs Omonia UEFA Europa League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2120307/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026248/179188739582171_UECL_MD1_Hajduk-Split-vs-Ajax_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Hajduk Split vs Ajax UEFA Conference League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2018458/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026200/1791812726813916_UECL_MD1_CSKA-Sofia-vs-Monaco_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", CSKA Sofia vs Monaco UEFA Conference League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2022317/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026281/1791934991496559_UECL26_Craiova_vs_Getafe_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", U. Craiova vs Getafe UEFA Conference League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2094589/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026385/179202733069360_UECL_MD1_Panathinaikos-vs-Borac_rev_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Panathinaikos vs Borac UEFA Conference League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2094588/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026281/1791934785225559_UECL26_Gent_vs_Aarhus_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Gent vs Aarhus - MD1 UEFA Conference League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026200/1791812132108916_UECL_MD1_Lugano-vs-Crvena-Zvezda_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Lugano vs Crvena Zvezda UEFA Conference League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2005445/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026200/1791812406365916_UECL_MD1_KuPS-Kuopio-vs-Trabzonspor_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", KuPS Kuopio vs Trabzonspor UEFA Conference League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=817e30781ae287142d0d9d62d7f63d2d-1792083000967
 # ===== SOURCE 5 =====
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2950/image",23:45 WIB AZ Alkmaar vs Hapoel Beer Sheva Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8a9ae28d02e0f77b6aa6ebf5c188a14:6c569f2bb738098d8affc3694aaf2465
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xd5wxim36l/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2950/image",23:45 WIB AZ Alkmaar vs Hapoel Beer Sheva Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/3121/image",23:45 WIB Lech Poznan vs Bayer 04 Leverkusen Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2413/image",23:45 WIB NK Celje vs Omonia Nicosia Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=179d6fc50606be0d935d80e71e5b49e4:51ce29944f9e6ac81a27b617defb56bf
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1zzeullfzf/out/v1/f6966293221c45ed8f84623aef615fde/cenc.mpd
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2413/image",23:45 WIB NK Celje vs Omonia Nicosia Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120307/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/1649/image",23:45 WIB Olympique Lyonnais vs Crystal Palace Football TNT SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/1649/image",23:45 WIB Olympique Lyonnais vs Crystal Palace Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71eb0af995a7ea26b340e966863e38fb:5fff5b455989c16fb0e34b55dccc3d3b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4grbd6fvyu/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/1649/image",23:45 WIB Olympique Lyonnais vs Crystal Palace Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2046/image",23:45 WIB Red Bull Salzburg vs AC Milan Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2218/image",23:45 WIB AC Sparta Praha vs Lillestrm SK Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/4860/image",23:45 WIB Royale Union Saint-Gilloise vs Real Sociedad Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120301/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/25787/image",23:45 WIB Torreense vs Sunderland Football TNT SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/25787/image",23:45 WIB Torreense vs Sunderland Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2120308/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/3275/image",23:45 WIB CSKA Sofia vs AS Monaco Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25e66b34d2e44ffec33fa0333cf65ded:be64ba039c84fadafe9b2b9bbc472281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3jrnfwr0bh/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/3275/image",23:45 WIB CSKA Sofia vs AS Monaco Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2022317/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f3d8babfe642240de33671d45b1c1952-1792081800725
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2036/image",23:45 WIB HNK Hajduk Split vs AFC Ajax Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40e401e1cbaf4a4cdeb68489dfe23dea:06e5ac3b4a716f062db7f8b14b51ef20
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nbvkcuwbh1/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2036/image",23:45 WIB HNK Hajduk Split vs AFC Ajax Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2018458/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2244/image",23:45 WIB Kuopion Palloseura vs Trabzonspor Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5529ce921bc5d8554b925065f86af002:6ad8a302a2876d1df1e327572fcf96d3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0xpf4sc6qx/out/v1/5d42e59ea86d400e93409185d674194c/cenc.mpd
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2244/image",23:45 WIB Kuopion Palloseura vs Trabzonspor Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f3d8babfe642240de33671d45b1c1952-1792081800725
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/264619/image",23:45 WIB KF Egnatia vs FC Midtjylland Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed59f2a2b2ba9771149b03b66a893ba7:5977784d16e815f27e300c64642a25b7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kqscdnntow/out/v1/bdab973002a441e59ec79082d0492fb6/cenc.mpd
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2903/image",23:45 WIB KAA Gent vs AGF Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c6d29a512d79d431d8365135f81a7d8:de3700334f14a1daca70595d870e39e2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/sfpvcgqtls/out/v1/22c3f3c1e99c4c38b8e543d375d80046/cenc.mpd
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2903/image",23:45 WIB KAA Gent vs AGF Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f3d8babfe642240de33671d45b1c1952-1792081800725
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2443/image",23:45 WIB FC Lugano vs FK Crvena zvezda Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2005445/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f3d8babfe642240de33671d45b1c1952-1792081800725
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/116223/image",23:45 WIB Universitatea Craiova vs Getafe Football SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew.akamaized.net/hls/live/2094589/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f3d8babfe642240de33671d45b1c1952-1792081800725
 # ===== SOURCE 6 =====
 #PLAYLIST:Willow Cricket Event Info
 #LAST_UPDATE:09:32 PM 15-10-2026
@@ -71,11 +349,11 @@ http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba02
 #EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10", VICTOR Denmark Open 2026 Court 3 Twitch
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba03
 # ===== SOURCE 9 =====
-#EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg", VICTOR Denmark Open 2026 Court 1 Huya
+#EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg", Denmark Open BWF WORLD TOUR Court 1 Huya
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
-#EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg", VICTOR Denmark Open 2026 Court 2 Huya
+#EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg", Denmark Open BWF WORLD TOUR Court 2 Huya
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805929
-#EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg", VICTOR Denmark Open 2026 Court 3 Huya
+#EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg", Denmark Open BWF WORLD TOUR Court 3 Huya
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805930
 # ===== SOURCE 10 =====
 #EXTINF:-1 tvg-id="badminton_1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", Denmark Open XOILACZ
