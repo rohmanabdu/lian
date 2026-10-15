@@ -1,24 +1,28 @@
 #EXTM3U
 # ===== SOURCE 2 =====
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open Court 1 XOILACZ
-https://tg040grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8?wsSession=2db495651145cc55c2935260-179196168904483&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsBindIP=2&wsserid=1168235949169684170
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/Kc6R4Dv.png",13:30 WIB AI Peppers W vs Incheon Heungkuk W
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0005/vnwuugniobwkp3tmpcvcgaglsfdx73u1a7n5/fsjwbtcgs761iyzzeytnhcvfdx73u1a3wr_hls_playlist.m3u8?hdnts=st=1792045509~exp=1792106719~acl=*/vnwuugniobwkp3tmpcvcgaglsfdx73u1a7n5/*~hmac=494441835adb8ca1df8150925ad8d465206e94a4fb5ce7bfc3b74a143a17a988&vp=47DEQpj8HBSa-_TIKgc8JzIZ-OGi_6-I5_uDpg
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/Kc6R4Dv.png",13:30 WIB AI Peppers W vs Incheon Heungkuk W
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open Court 2 XOILACZ
-https://tg040grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8?wsSession=2db495651145cc55c2935260-179196173422224&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsBindIP=2&wsserid=1168235949169684170
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open Court 3 XOILACZ
-https://tg040grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8?wsSession=2db495651145cc55c2935260-179196176739198&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsBindIP=2&wsserid=1168235949169684170
+https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open Court 1 XOILACZ
+https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open Court 2 XOILACZ
+https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:32 AM 15-10-2026
+#LAST_UPDATE:12:32 PM 15-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
+#LIVE_COUNT:1
 #UPCOMING_COUNT:0
 #EXTINF:-1 tvg-id="B0HL1TTRWF" tvg-name="Wuhan-WTA - Second Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e13dc3f0-67db-4d21-b302-c70007747e6d/7/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Wuhan-WTA - Second Round  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 # ===== SOURCE 4 =====
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", DP World India Championship - Day 1 DP World Tour ENG Sony Liv
 https://sonymtmnew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792057133~acl=/*~id=35485174765682570897037341417802~hmac=a475869aca6d8c566c116a98d3ddd07a7cb165a80452855f7fe5fb7bbb708daa|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=3355b42e7068584947bf89aabfcc75b0-1792041004648
@@ -27,7 +31,7 @@ https://sonymtmnew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-80030
 # ===== SOURCE 5 =====
 # ===== SOURCE 6 =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:32 AM 15-10-2026
+#LAST_UPDATE:12:02 PM 15-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -41,12 +45,12 @@ http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba02
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba03
 # ===== SOURCE 9 =====
 # ===== SOURCE 10 =====
-#EXTINF:-1 tvg-id="badminton_1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", Denmark Open Court 1 XOILACZ
-https://tg040grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8?wsSession=2db495651145cc55c2935260-179196168904483&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsBindIP=2&wsserid=1168235949169684170
-#EXTINF:-1 tvg-id="badminton_2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", Denmark Open Court 2 XOILACZ
-https://tg040grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8?wsSession=2db495651145cc55c2935260-179196173422224&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsBindIP=2&wsserid=1168235949169684170
-#EXTINF:-1 tvg-id="badminton_3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", Denmark Open Court 3 XOILACZ
-https://tg040grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8?wsSession=2db495651145cc55c2935260-179196176739198&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsBindIP=2&wsserid=1168235949169684170
+#EXTINF:-1 tvg-id="badminton_1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", Denmark Open Court 2 XOILACZ
+https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
+#EXTINF:-1 tvg-id="badminton_2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", Denmark Open Court 1 XOILACZ
+https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
+#EXTINF:-1 tvg-id="badminton_3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", Denmark Open Court 2 XOILACZ
+https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
 # ===== SOURCE 11 =====
 # ===== SOURCE 15 =====
 #EXTINF:-1 tvg-chno="194" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations Qualification] Central Africa vs Burkina Faso 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="live event: fawa",[Africa Cup of Nations Qualification] Central Africa vs Burkina Faso 1
