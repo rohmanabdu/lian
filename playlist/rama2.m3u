@@ -4,27 +4,23 @@
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR Court 2 Huya
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805929
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/uSWbs",[Belum Mulai] 17:00 WIB Wofoo Tai Po vs Lion City Sailors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR Court 3 Huya
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805930
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/uSWbs",17:00 WIB Wofoo Tai Po vs Lion City Sailors
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/-zy9I",14:00 WIB VICTOR Denmark Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344746942841061_AiSD.m3u8?txSecret=fc75eafd9b9f2e3a644ff8a7c4394e18&txTime=6AD1A140
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/-zy9I",14:00 WIB VICTOR Denmark Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344747078740061_AiSD.m3u8?txSecret=826d0f0fab876d68f403e8d343a44d49&txTime=6AD1A140
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/-zy9I",14:00 WIB VICTOR Denmark Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344747183715061_AiSD.m3u8?txSecret=42029e0e2f26ff614cf8501d4e49cdb8&txTime=6AD1A140
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/Kc6R4Dv.png",17:00 WIB IBK W vs Daejeon JKJ W
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0005/3hfangh10ro5yx6qr3rncr6zz60b2kdpyno0/cge0qdwsg8din2ueap5rtk960b2kdpykuq_hls_playlist.m3u8?hdnts=st=1792057596~exp=1792118806~acl=*/3hfangh10ro5yx6qr3rncr6zz60b2kdpyno0/*~hmac=7158f6a3b3e061ae46d10fe8b81f6626695efdb1a1b512e22f50f8c18657cfb4&vp=47DEQpj8HBSa-_TIKgc8JzIZ-OGi_6-I5_uDpg
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/Kc6R4Dv.png",[Belum Mulai] 17:00 WIB IBK W vs Daejeon JKJ W
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:32 PM 15-10-2026
+#LAST_UPDATE:04:32 PM 15-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -52,6 +48,8 @@ http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba03
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 #EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg", Denmark Open BWF WORLD TOUR Court 2 Huya
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805929
+#EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg", Denmark Open BWF WORLD TOUR Court 3 Huya
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805930
 # ===== SOURCE 10 =====
 #EXTINF:-1 tvg-id="badminton_1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", Denmark Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
