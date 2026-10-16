@@ -8,35 +8,13 @@ https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=ffd70a9845e85f29
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:09:32 AM 16-10-2026
+#LAST_UPDATE:10:32 AM 16-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
 #UPCOMING_COUNT:0
 # ===== SOURCE 4 =====
 # ===== SOURCE 5 =====
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/3638/image",08:00 WIB Los Angeles Dodgers vs Milwaukee Brewers Baseball TNT SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/3638/image",08:00 WIB Los Angeles Dodgers vs Milwaukee Brewers Baseball FOX SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/3638/image",08:00 WIB Los Angeles Dodgers vs Milwaukee Brewers Baseball FOX DEPORTES - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/3638/image",08:00 WIB Los Angeles Dodgers vs Milwaukee Brewers Baseball HD QUALITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
 # ===== SOURCE 6 =====
 #PLAYLIST:Willow Cricket Event Info
 #LAST_UPDATE:06:32 AM 16-10-2026
@@ -44,6 +22,31 @@ https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windo
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
 #UPCOMING_COUNT:17
+# ===== SOURCE 7 =====
+#EXTINF:-1 tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" group-title="Live Event: Voli",[Belum Mulai] 12:30 WIB UM VS UPI - Liga Voli Mahasiswa
+https://site04.superabbit77hd.skin/es/volleyball/liga-voli-mahasiswa-2248332/putri-um-vs-upi.html?icg=UEU
+#EXTINF:-1 tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" group-title="Live Event: Voli",[Belum Mulai] 15:00 WIB UNESA VS UM - Liga Voli Mahasiswa
+https://site04.superabbit77hd.skin/es/volleyball/liga-voli-mahasiswa-2248333/putra-unesa-vs-um.html?icg=UEU
+#EXTINF:-1 tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" group-title="Live Event: Voli",[Belum Mulai] 17:00 WIB Hyundai E&C Hillstate F VS GS Caltex F - KOVO Cup South Korea
+https://site04.superabbit77hd.skin/es/volleyball/kovo-cup-women-2244901/hyundai-ec-hillstate-women-vs-gs-caltex-women.html?icg=UEU
+#EXTINF:-1 tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" group-title="Live Event: Voli",[Belum Mulai] 19:00 WIB UNIJA VS STKIP - Liga Voli Mahasiswa
+https://site04.superabbit77hd.skin/es/volleyball/liga-voli-mahasiswa-2248334/putra-unija-vs-stkip.html?icg=UEU
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/fPBNfb4v-480.jpg" group-title="Live Event: Voli",[Belum Mulai] 22:30 WIB GKS Katowice vs Aluron CMC Warta Zawiercie - Men's Volleyball League
+https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-2244916/gks-katowice-vs-zawiercie.html?icg=UEU
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/DmylO6qC-480.jpg" group-title="Live Event: Voli",[Belum Mulai] 00:00 WIB VolleyWroclaw vs LOTTO Chemik Police - Polish League
+https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-women-2245878/wroclaw-women-vs-chemik-police-women.html?icg=UEU
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9oK-8XjLWz4/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 00:45 WIB Brescia vs Vallefoglia - Italian League
+9oK-8XjLWz4
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/9BjXVaK9-480.jpg" group-title="Live Event: Voli",[Belum Mulai] 01:30 WIB PGE Projekt Warszawa vs Indykpol AZS Olsztyn - Polish Men's League
+https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-2245888/verva-warszawa-vs-olsztyn.html?icg=UEU
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tYNJ8iUDkQ0/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 04:00 WIB CIUDAD VOLEY VS MONTEROS - SEMIFINAL ACLAV MEN'S SUPERCUP OF ARGENTINA
+tYNJ8iUDkQ0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dLXRuV4HN2k/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 05:30 WIB BOCA JUMNIORS VS SAN GREGORIO - DATE 10 HONOR DIVISION
+dLXRuV4HN2k
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1tmsmzekmtc/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 07:00 WIB UPCN VOLEY VS BOCA JUNIORS - MEN'S SEMIFINAL ACLAV SUPERCUP OF ARGENTINA
+1tmsmzekmtc
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dLXRuV4HN2k/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 07:30 WIB VELEZ VS RIVER PLATE - DATE 10 DIVISION OF HONOR
+dLXRuV4HN2k
 # ===== SOURCE 8 =====
 #EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10", VICTOR Denmark Open 2026 Court 1 Twitch
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba01
