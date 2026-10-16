@@ -1,31 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="VOLLEYBALL TV",KOVO CUP
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="VOLLEYBALL TV",KOVO CUP
+https://tg050gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel81/playlist.m3u8?wsSecret=eb8340012fc6d763a7cf6953918a047d&wsABSTime=1792092540&wsSession=6e5e48cde178b0231176ecbe-179204935903678&wsIPSercert=9faba076c0338ce7a76a05f30144030c&wsBindIP=2&wsserid=1168287746149776142
 #EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="KOVO CUP 2026",🔥KOREA EXPRESSWAY VS HYUNDAI HILLSTATE
 https://tg040gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel80/playlist.m3u8?wsSecret=498616518ea2c6fab297148eb39e4072&wsABSTime=1792016801&wsSession=510ff2a6e1fbdceb0434ca7c-179197360643507&wsIPSercert=6087136349f581a2360b49970c13d9f2&wsBindIP=2&wsserid=1168287765269359649
 #EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="KOVO CUP 2026",🔥HYUNDAI HILLSTATE VS GS CALTEX SEOUL KIXX
 https://tg040gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel80/playlist.m3u8?wsSecret=498616518ea2c6fab297148eb39e4072&wsABSTime=1792016801&wsSession=510ff2a6e1fbdceb0434ca7c-179197360643507&wsIPSercert=6087136349f581a2360b49970c13d9f2&wsBindIP=2&wsserid=1168287765269359649
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 15-OKT-26",23.45||AZ ALKMAR VS H BEER SHEVA
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 15-OKT-26",23.45||LECH POZNAN VS BAYERN LEVERKUZEN
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 16-OKT-26",15.30||PSIM VS PSM
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 15-OKT-26",23.45||LYON VS CRYSTAL PALACE
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 15-OKT-26",23.45||FC SALZBURG VS AC MILAN
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 15-OKT-26",23.45||UNION SG VS REAL SOCIEDAD
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 15-OKT-26",23.45||CSKA SOFIA VS AS MONACCO
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 16-OKT-26",19.00||JAVA UNITED VS BALI UNITED
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 16-OKT-26",19.00||MADURA UNITED VS BHAYANGKARA FC
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 15-OKT-26",23.45||HADJUK SPILT VS AJAX
-https://tg050gr3uomttgr31hct1gczdkc3pptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=1ae75a9e71a1c9b9d86663f97887b312&wsABSTime=1792125483&wsSession=9e08c1b38034baf63f366dae-179208228756874&wsIPSercert=dfa7a860ed6024e30bda647a52372756&wsBindIP=2&wsserid=19560480166232750
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 15-OKT-26",23.45||KUOPION VS TRAPZONSPOR
-https://tg056gr3uomttgr31hctwgczdncjufisg17ufgr.100ycdn.com/live1.quickscoreboardz.com/live/channel14/playlist.m3u8?wsSecret=53faf16361d94ba36d5ce0a4d0ff7589&wsABSTime=1792125618&wsSession=70af64b2e9d11726808a7287-179208242252359&wsIPSercert=dfa7a860ed6024e30bda647a52372756&wsBindIP=2&wsserid=19560480166232784
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 16-OKT-26",02.00||BENFICA VS CELTIC
+#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 16-OKT-26",19.00||PERSIJAP JEPARA VS ISENMULANG KALTENG
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 16-OKT-26",02.00||CELTA VIGO VS JUVENTUS
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 16-OKT-26",02.00||MARSEILLE VS OLYMPIACOS
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 16-OKT-26",02.00||ATALANTA VS FAPOS FC
-https://tg056gr3uomttgr31hctwgczdncjufisg17ufgr.100ycdn.com/live1.quickscoreboardz.com/live/channel14/playlist.m3u8?wsSecret=53faf16361d94ba36d5ce0a4d0ff7589&wsABSTime=1792125618&wsSession=70af64b2e9d11726808a7287-179208242252359&wsIPSercert=dfa7a860ed6024e30bda647a52372756&wsBindIP=2&wsserid=19560480166232784
-#EXTINF:-1 tvg-logo="https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg" group-title="LIVE 16-OKT-26",02.00||PRIGTON VS CAUNO ZALGRIS
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
