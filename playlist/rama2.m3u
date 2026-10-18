@@ -10,16 +10,20 @@ https://ogietv.biz.id:443/Dimas01/bara01/1325.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel21.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT",MPL INDONESIA SEASON 18 Week 9 Day 3 Streaming mobile legends: bang bang.
+http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open - Finals XOILACZ
+https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ba982cc88f8df96670c1d4791f402973&wsABSTime=1792360711
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:02:32 PM 18-10-2026
+#LAST_UPDATE:03:39 PM 18-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
 #UPCOMING_COUNT:0
 # ===== SOURCE 4 =====
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", DP World India Championship - Day 4 DP World Tour Sony Liv
-https://dai.google.com/ssai/event/lkGY9y9WRxqKdhATE858bQ/master.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a02288c5f070cc67ef6fa9c8b95e8cc4-1792313401888
+https://dai.google.com/ssai/event/lkGY9y9WRxqKdhATE858bQ/master.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=79db826d82edaf5a730a1c9aa30b38de-1792317002497
 # ===== SOURCE 5 =====
 #EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/187747/image",15:00 WIB South Africa vs Australia Cricket WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -93,7 +97,12 @@ http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba02
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba03
 # ===== SOURCE 9 =====
 # ===== SOURCE 10 =====
+#EXTINF:-1 tvg-id="badminton_1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", Denmark Open - Finals XOILACZ
+https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ba982cc88f8df96670c1d4791f402973&wsABSTime=1792360711
 # ===== SOURCE 11 =====
+# ===== SOURCE 13 =====
+#EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="Live Esports", MPL INDONESIA SEASON 18 Week 9 Day 3 Streaming mobile legends: bang bang.
+http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 # ===== SOURCE 15 =====
 #EXTINF:-1 tvg-chno="194" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations Qualification] Central Africa vs Burkina Faso 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="live event: fawa",[Africa Cup of Nations Qualification] Central Africa vs Burkina Faso 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
