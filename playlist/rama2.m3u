@@ -1,29 +1,50 @@
 #EXTM3U
-# ===== SOURCE 1 =====
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:00 WIB PERSEBAYA Surabaya vs PSS Sleman - BRI Super League INDOSIAR Digital 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/indosiar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:00 WIB PERSEBAYA Surabaya vs PSS Sleman - BRI Super League INDOSIAR Digital 2
-https://ogietv.biz.id:443/Dimas01/bara01/1325.m3u8
 # ===== SOURCE 2 =====
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR Court 1 Huya
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/_bDcr",15:30 WIB Persebaya Surabaya vs PSS Sleman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel21.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/-zy9I",17:00 WIB VICTOR Denmark Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344748385643061_AiSD.m3u8?txSecret=0a8478be4dcc0db269712dbc973e5c6a&txTime=6AD595C0
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2695/image" group-title="LIVE EVENT",17:30 WIB Udinese vs Lecce Football beIN ENGLISH - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2695/image" group-title="LIVE EVENT",17:30 WIB Udinese vs Lecce Football HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/65239c27-289b-4956-9097-76289f46e000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s",17:30 WIB Udinese vs Lecce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT",MPL INDONESIA SEASON 18 Week 9 Day 3 Streaming mobile legends: bang bang.
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Denmark Open - Finals XOILACZ
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ba982cc88f8df96670c1d4791f402973&wsABSTime=1792360711
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:39 PM 18-10-2026
+#LAST_UPDATE:04:32 PM 18-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
 #UPCOMING_COUNT:0
 # ===== SOURCE 4 =====
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Churchill Brothers SC vs East Bengal FC MG Indian Super League 2026-27 ENG Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9663329df85fa2784be3e9d9dbd24b12-1792319402738
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Churchill Brothers SC vs East Bengal FC MG Indian Super League 2026-27 HIN Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9663329df85fa2784be3e9d9dbd24b12-1792319402738
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", Churchill Brothers SC vs East Bengal FC MG Indian Super League 2026-27 BEN Sony Liv
+https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9663329df85fa2784be3e9d9dbd24b12-1792319402738
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1", DP World India Championship - Day 4 DP World Tour Sony Liv
-https://dai.google.com/ssai/event/lkGY9y9WRxqKdhATE858bQ/master.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=79db826d82edaf5a730a1c9aa30b38de-1792317002497
+https://dai.google.com/ssai/event/lkGY9y9WRxqKdhATE858bQ/master.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9663329df85fa2784be3e9d9dbd24b12-1792319402738
 # ===== SOURCE 5 =====
 #EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/187747/image",15:00 WIB South Africa vs Australia Cricket WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -53,6 +74,16 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=17841
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2695/image",17:30 WIB Udinese vs Lecce Football beIN ENGLISH - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/2695/image",17:30 WIB Udinese vs Lecce Football HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/65239c27-289b-4956-9097-76289f46e000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 group-title="Live Event: CFY" tvg-logo="https://img.sofascore.com/api/v1/team/187754/image",15:00 WIB Pakistan vs Sri Lanka Cricket WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -96,6 +127,8 @@ http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba02
 #EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10", VICTOR Denmark Open 2026 Court 3 Twitch
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba03
 # ===== SOURCE 9 =====
+#EXTINF:-1 group-title="Live Event: Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg", Denmark Open BWF WORLD TOUR Court 1 Huya
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 # ===== SOURCE 10 =====
 #EXTINF:-1 tvg-id="badminton_1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="Live Event: Badminton", Denmark Open - Finals XOILACZ
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ba982cc88f8df96670c1d4791f402973&wsABSTime=1792360711
