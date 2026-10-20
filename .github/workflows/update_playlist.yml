@@ -1,4 +1,4 @@
-name: Update Playlist Otomatis
+name: Update Pl Otomatis
 on:
   workflow_dispatch:
 
@@ -37,7 +37,7 @@ jobs:
         run: |
           git config --global user.name "auto-bot"
           git config --global user.email "bot@github.com"
-          git add playlist/
+          git add pl/
           git add -A
-          git diff --staged --quiet || git commit -m "Auto update playlist - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git diff --staged --quiet || git commit -m "Auto update pl - $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push origin main
