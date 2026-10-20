@@ -3,7 +3,7 @@ import os
 
 # ================== CONFIG ==================
 SOURCE_URL = "https://raw.githubusercontent.com/apistech/project/refs/heads/main/playlists/liveeventsfilter.m3u8"
-OUTPUT_FILE = "playlist/rama3.m3u"  # <-- NAMA BARU SESUAI REQUEST
+OUTPUT_FILE = "pl/rama3"  # <-- NAMA BARU SESUAI REQUEST
 
 # Tulisan yang ingin dihapus
 REMOVE_TEXT = "Gvision TV"
