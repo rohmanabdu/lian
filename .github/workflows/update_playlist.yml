@@ -24,13 +24,13 @@ jobs:
       - name: Pull latest first
         run: git pull --rebase origin main
 
-      - name: Update rama1.m3u
+      - name: Update rama1
         run: python scripts/update1.py
 
-      - name: Update rama2.m3u
+      - name: Update rama2
         run: python scripts/update2.py
 
-      - name: Update rama3.m3u
+      - name: Update rama3
         run: python scripts/update3.py
 
       - name: Commit & Push
