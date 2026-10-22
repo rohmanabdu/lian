@@ -2,60 +2,50 @@ import requests
 
 URL1 = "https://raw.githubusercontent.com/rohmanabdu/deqiaa/refs/heads/main/hasill"
 URL2 = "https://raw.githubusercontent.com/rohmanabdu/deqiaa/refs/heads/main/pll/ramaa2"
-OUTPUT = "desafirax"  # hasil gabungan akan timpa file ini
+OUTPUT = "hasill"  # kalau mau aman, ganti jadi "hasill_gabungan.m3u"
 
 def fetch(url):
     try:
-        r = requests.get(url, timeout=20)
-        r.raise_for_status()
-        return r.text
+        print(f"Fetching {url}...")
+        r = requests.get(url, timeout=30)
+        print(f"Status {url}: {r.status_code}, size: {len(r.text)}")
+        if r.status_code == 200:
+            return r.text
+        return ""
     except Exception as e:
-        print(f"Gagal ambil {url}: {e}")
+        print(f"Error {url}: {e}")
         return ""
 
-def parse_m3u(content):
-    lines = content.splitlines()
-    channels = []
-    i = 0
-    while i < len(lines):
-        line = lines[i].strip()
-        if line.startswith("#EXTINF"):
-            info = line
-            url = lines[i+1].strip() if i+1 < len(lines) else ""
-            channels.append((info, url))
-            i += 2
-        else:
-            i += 1
-    return channels
+def clean(content):
+    # buang header #EXTM3U biar gak dobel
+    lines = []
+    for line in content.splitlines():
+        if line.strip().upper() == "#EXTM3U":
+            continue
+        if line.strip() == "":
+            continue
+        lines.append(line)
+    return "\n".join(lines)
 
 def gabung():
-    print("Ambil playlist 1...")
     c1 = fetch(URL1)
-    print("Ambil playlist 2...")
     c2 = fetch(URL2)
 
-    ch1 = parse_m3u(c1)
-    ch2 = parse_m3u(c2)
+    if not c1 and not c2:
+        print("KEDUA FILE KOSONG! Cek link raw nya!")
+        return
 
-    print(f"Playlist 1: {len(ch1)} channel")
-    print(f"Playlist 2: {len(ch2)} channel")
+    cleaned1 = clean(c1)
+    cleaned2 = clean(c2)
 
-    # Gabung + anti duplikat berdasarkan URL stream
-    seen_url = set()
-    all_channels = []
-    for info, url in ch1 + ch2:
-        if url and url not in seen_url and url.startswith("http"):
-            seen_url.add(url)
-            all_channels.append((info, url))
-
-    print(f"Hasil gabungan: {len(all_channels)} channel unik")
+    # gabung tanpa hapus duplikat dulu, biar gak kosong
+    final = "#EXTM3U\n" + cleaned1 + "\n" + cleaned2 + "\n"
 
     with open(OUTPUT, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
-        for info, url in all_channels:
-            f.write(f"{info}\n{url}\n")
+        f.write(final)
 
-    print(f"Sukses! Disimpan ke {OUTPUT}")
+    print(f"SUKSES! {OUTPUT} size: {len(final)} char")
+    print(f"Preview 5 baris pertama:\n{final[:500]}")
 
 if __name__ == "__main__":
     gabung()
