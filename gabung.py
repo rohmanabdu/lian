@@ -1,4 +1,4 @@
-import requests
+nt 2import requests
 import re
 
 URL1 = "https://raw.githubusercontent.com/rohmanabdu/deqiaa/refs/heads/main/hasill"
@@ -7,7 +7,7 @@ OUTPUT = "hasill"
 
 # === GANTI NAMA FOLDER DISINI ===
 # Ini nama baru buat kategori "upcoming" dari url 2
-NAMA_BARU_URL2 = "Live Upcoming"  # <-- GANTI SESUKA LU
+NAMA_BARU_URL2 = "Live Event 2"  # <-- GANTI SESUKA LU
 
 def fetch(url):
     try:
