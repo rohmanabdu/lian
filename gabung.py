@@ -1,4 +1,4 @@
-nt 2import requests
+import requests
 import re
 
 URL1 = "https://raw.githubusercontent.com/rohmanabdu/deqiaa/refs/heads/main/hasill"
