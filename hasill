@@ -5,35 +5,40 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTMwMzI1fQ.XEb68FrUqkHUQ4b4u_eJ-SLWfwkkKXel_IBJmoAK8Vg
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTMwMzI1fQ.XEb68FrUqkHUQ4b4u_eJ-SLWfwkkKXel_IBJmoAK8Vg
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTMxMjM4fQ.YeIgzsnWoTD6gbTcmibGQ2pBysuawaIKg_JbZmAjotA
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTMxMjM4fQ.YeIgzsnWoTD6gbTcmibGQ2pBysuawaIKg_JbZmAjotA
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/aqCsO2khZwugApqlXO4rdSpqMVI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399888/ccb6c8.jpg" group-title="LIVE EVENT",Galatasaray vs Fenerbahce - Trendyol Super Lig (01:25 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMxMzAzMjV9.i4ClTWH3ttxaKPunIE0ZHwRtIvpLuACmPHIlEA6--vc
-https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMxMzAzMjV9.i4ClTWH3ttxaKPunIE0ZHwRtIvpLuACmPHIlEA6--vc
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMxMzEyMzh9.dgOepw0zUNcanPPMmx9plhOiYlJrSz7-RQJbpxehnuI
+https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMxMzEyMzh9.dgOepw0zUNcanPPMmx9plhOiYlJrSz7-RQJbpxehnuI
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/L-j9-ZlYy63fkJOEo0xBPHcPguU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401037/4fc4cb.jpg" group-title="LIVE EVENT",Dominic Stricker vs Casper Ruud - Round 1 | ATP 500: Swiss Indoors Basel 2026 (02:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTMwMzI1fQ.Rl5N1WLgpphoowzIZYxLuoBrSXDtr4VsA6lHtb7o8bA
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTMwMzI1fQ.Rl5N1WLgpphoowzIZYxLuoBrSXDtr4VsA6lHtb7o8bA
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTMxMjM4fQ.ArWNPs50nOscXOFm6_zvWc1HH3slZDvq2aScnZb8pbQ
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTMxMjM4fQ.ArWNPs50nOscXOFm6_zvWc1HH3slZDvq2aScnZb8pbQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/fF_jMVauu3cnw8aniNDo19x476Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5402186/120e39.jpg" group-title="LIVE EVENT",Paris Saint-Germain vs Olympique Lyonnais - Ligue 1 (02:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=9182&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTMxMzAzMjV9.RRkcxsspHRB6aTRZAEO-ByqMeKdndIuLNVaY3As9sbg
-https://vidkon.biz.id/post.mpd?id=9182&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTMxMzAzMjV9.RRkcxsspHRB6aTRZAEO-ByqMeKdndIuLNVaY3As9sbg
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lAIGLy7kOCy2CVutlBx9Bsz2zWo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399889/b5bbbe.jpg" group-title="LIVE EVENT",Sevilla vs Osasuna - LaLiga (02:55 WIB * 27-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=9182&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTMxMzEyMzh9.zTVfZY2TK2Hj0am6DN1WH9EgZjqOBtOiQxztEgpFOII
+https://vidkon.biz.id/post.mpd?id=9182&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTMxMzEyMzh9.zTVfZY2TK2Hj0am6DN1WH9EgZjqOBtOiQxztEgpFOII
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lAIGLy7kOCy2CVutlBx9Bsz2zWo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399889/b5bbbe.jpg" group-title="LIVE EVENT",Sevilla vs Osasuna - LaLiga (02:55 WIB * 27-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTMxMzEyMzh9.plrrmdJXGhl1fTGCcI80tAZ1pfGZM7zX4fxOxjGCEa8
+https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTMxMzEyMzh9.plrrmdJXGhl1fTGCcI80tAZ1pfGZM7zX4fxOxjGCEa8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/p8PNTfEAdE3OBScef77iauFyaXs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400896/547551.jpg" group-title="LIVE EVENT",Dallas Cowboys vs Philadelphia Eagles - NFL (07:05 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -166,34 +171,6 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xSUSDiuuYfLmusslcb_LxzlE69g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401951/4bec46.jpg" group-title="LIVE EVENT",Putri 61 Kg - Grup A (18:00 WIB * 01-11-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-id="Vision+" group-title="AFC Champions League Elite 2026/27" tvg-logo="https://www.visionplus.id/images/repository/636/828636-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Elite 2026/27: Air Force SC (IRQ) vs Pakhtakor (UZB) [27 Oct 2026 01:15 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-#EXTINF:-1 tvg-id="Vision+" group-title="AFC Champions League Elite 2026/27" tvg-logo="https://www.visionplus.id/images/repository/636/828636-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Elite 2026/27: Air Force SC (IRQ) vs Pakhtakor (UZB) [27 Oct 2026 01:15 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-#EXTINF:-1 tvg-id="Vision+" group-title="AFC Champions League Elite 2026/27" tvg-logo="https://www.visionplus.id/images/repository/811/828811-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Elite 2026/27: Al Qadsiah Club (KSA) vs Al Sadd SC (QAT) [27 Oct 2026 01:15 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
-#EXTINF:-1 tvg-id="Vision+" group-title="AFC Champions League Elite 2026/27" tvg-logo="https://www.visionplus.id/images/repository/811/828811-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Elite 2026/27: Al Qadsiah Club (KSA) vs Al Sadd SC (QAT) [27 Oct 2026 01:15 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
 #EXTINF:-1 tvg-id="Vision+" group-title="LaLiga 2026/27" tvg-logo="https://www.visionplus.id/images/repository/887/828887-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2026/27: Sevilla vs Osasuna [27 Oct 2026 02:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -236,126 +213,126 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=115
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/818/828818-SNAPSHOT-m.jpg" ch-number="3",AFC Champions League Elite 2026/27: Shanghai Port FC (CHN) vs Cong An Ha Noi FC (VIE) [27 Oct 2026 16:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/818/828818-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Elite 2026/27: Shanghai Port FC (CHN) vs Cong An Ha Noi FC (VIE) [27 Oct 2026 16:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/818/828818-SNAPSHOT-m.jpg" ch-number="3",AFC Champions League Elite 2026/27: Shanghai Port FC (CHN) vs Cong An Ha Noi FC (VIE) [27 Oct 2026 16:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/818/828818-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Elite 2026/27: Shanghai Port FC (CHN) vs Cong An Ha Noi FC (VIE) [27 Oct 2026 16:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/648/828648-SNAPSHOT-m.jpg" ch-number="4",AFC Champions League Elite 2026/27: Johor Darul Ta'zim FC (MAS) vs Port FC (THA) [27 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/648/828648-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Elite 2026/27: Johor Darul Ta'zim FC (MAS) vs Port FC (THA) [27 Oct 2026 17:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/648/828648-SNAPSHOT-m.jpg" ch-number="4",AFC Champions League Elite 2026/27: Johor Darul Ta'zim FC (MAS) vs Port FC (THA) [27 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/648/828648-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Elite 2026/27: Johor Darul Ta'zim FC (MAS) vs Port FC (THA) [27 Oct 2026 17:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/847/828847-SNAPSHOT-m.jpg" ch-number="5",AFC Champions League Elite 2026/27: Daejeon Hanacitizen (KOR) vs Vissel Kobe (JPN) [27 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/847/828847-SNAPSHOT-m.jpg" ch-number="3",AFC Champions League Elite 2026/27: Daejeon Hanacitizen (KOR) vs Vissel Kobe (JPN) [27 Oct 2026 17:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/847/828847-SNAPSHOT-m.jpg" ch-number="5",AFC Champions League Elite 2026/27: Daejeon Hanacitizen (KOR) vs Vissel Kobe (JPN) [27 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/847/828847-SNAPSHOT-m.jpg" ch-number="3",AFC Champions League Elite 2026/27: Daejeon Hanacitizen (KOR) vs Vissel Kobe (JPN) [27 Oct 2026 17:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/849/828849-SNAPSHOT-m.jpg" ch-number="6",AFC Champions League Elite 2026/27: Ratchaburi FC (THA) vs Kashiwa Reysol (JPN) [27 Oct 2026 19:10 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/849/828849-SNAPSHOT-m.jpg" ch-number="4",AFC Champions League Elite 2026/27: Ratchaburi FC (THA) vs Kashiwa Reysol (JPN) [27 Oct 2026 19:10 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/849/828849-SNAPSHOT-m.jpg" ch-number="6",AFC Champions League Elite 2026/27: Ratchaburi FC (THA) vs Kashiwa Reysol (JPN) [27 Oct 2026 19:10 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/849/828849-SNAPSHOT-m.jpg" ch-number="4",AFC Champions League Elite 2026/27: Ratchaburi FC (THA) vs Kashiwa Reysol (JPN) [27 Oct 2026 19:10 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/700/828700-SNAPSHOT-m.jpg" ch-number="7",AFC Champions League Elite 2026/27: Beijing FC (CHN) vs Jeonbuk Hyundai Motors FC (KOR) [27 Oct 2026 19:15 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/700/828700-SNAPSHOT-m.jpg" ch-number="5",AFC Champions League Elite 2026/27: Beijing FC (CHN) vs Jeonbuk Hyundai Motors FC (KOR) [27 Oct 2026 19:15 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/700/828700-SNAPSHOT-m.jpg" ch-number="7",AFC Champions League Elite 2026/27: Beijing FC (CHN) vs Jeonbuk Hyundai Motors FC (KOR) [27 Oct 2026 19:15 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/700/828700-SNAPSHOT-m.jpg" ch-number="5",AFC Champions League Elite 2026/27: Beijing FC (CHN) vs Jeonbuk Hyundai Motors FC (KOR) [27 Oct 2026 19:15 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/874/828874-SNAPSHOT-m.jpg" ch-number="8",AFC Champions League Elite 2026/27: Shabab Al Ahli (UAE) vs Esteghlal FC (IRN) [27 Oct 2026 23:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/874/828874-SNAPSHOT-m.jpg" ch-number="6",AFC Champions League Elite 2026/27: Shabab Al Ahli (UAE) vs Esteghlal FC (IRN) [27 Oct 2026 23:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/874/828874-SNAPSHOT-m.jpg" ch-number="8",AFC Champions League Elite 2026/27: Shabab Al Ahli (UAE) vs Esteghlal FC (IRN) [27 Oct 2026 23:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/874/828874-SNAPSHOT-m.jpg" ch-number="6",AFC Champions League Elite 2026/27: Shabab Al Ahli (UAE) vs Esteghlal FC (IRN) [27 Oct 2026 23:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/707/829707-SNAPSHOT-m.jpg" ch-number="9",AFC Champions League Elite 2026/27: Al Shamal SC (QAT) vs Al Hilal SFC (KSA) [28 Oct 2026 01:15 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/707/829707-SNAPSHOT-m.jpg" ch-number="7",AFC Champions League Elite 2026/27: Al Shamal SC (QAT) vs Al Hilal SFC (KSA) [28 Oct 2026 01:15 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/707/829707-SNAPSHOT-m.jpg" ch-number="9",AFC Champions League Elite 2026/27: Al Shamal SC (QAT) vs Al Hilal SFC (KSA) [28 Oct 2026 01:15 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/707/829707-SNAPSHOT-m.jpg" ch-number="7",AFC Champions League Elite 2026/27: Al Shamal SC (QAT) vs Al Hilal SFC (KSA) [28 Oct 2026 01:15 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/902/829902-SNAPSHOT-m.jpg" ch-number="10",AFC Champions League Elite 2026/27: Kashima Antlers (JPN) vs FC Pohang Steelers (KOR) [28 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/902/829902-SNAPSHOT-m.jpg" ch-number="8",AFC Champions League Elite 2026/27: Kashima Antlers (JPN) vs FC Pohang Steelers (KOR) [28 Oct 2026 17:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/902/829902-SNAPSHOT-m.jpg" ch-number="10",AFC Champions League Elite 2026/27: Kashima Antlers (JPN) vs FC Pohang Steelers (KOR) [28 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/902/829902-SNAPSHOT-m.jpg" ch-number="8",AFC Champions League Elite 2026/27: Kashima Antlers (JPN) vs FC Pohang Steelers (KOR) [28 Oct 2026 17:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/918/829918-SNAPSHOT-m.jpg" ch-number="11",AFC Champions League Elite 2026/27: Gamba Osaka (JPN) vs Buriram United (THA) [28 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/918/829918-SNAPSHOT-m.jpg" ch-number="9",AFC Champions League Elite 2026/27: Gamba Osaka (JPN) vs Buriram United (THA) [28 Oct 2026 17:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
-#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/918/829918-SNAPSHOT-m.jpg" ch-number="11",AFC Champions League Elite 2026/27: Gamba Osaka (JPN) vs Buriram United (THA) [28 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Live Event 2" tvg-logo="https://www.visionplus.id/images/repository/918/829918-SNAPSHOT-m.jpg" ch-number="9",AFC Champions League Elite 2026/27: Gamba Osaka (JPN) vs Buriram United (THA) [28 Oct 2026 17:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
