@@ -1,7 +1,7 @@
 import requests
 import re
 
-URL1 = "https://raw.githubusercontent.com/rohmanabdu/deqiaa/refs/heads/main/hasill"
+URL1 = "https://raw.githubusercontent.com/rohmanabdu/deqiaa/refs/heads/main/pll/rama2"
 URL2 = "https://raw.githubusercontent.com/rohmanabdu/deqiaa/refs/heads/main/pll/ramaa2"
 OUTPUT = "hasill"
 
