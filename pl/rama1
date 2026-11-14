@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqTO5aFrLB5gCWEvYFtJr3SU7f0LX5IClEL_x6J10OWVgPPO6NJXaFYjO&s=10" group-title="ShareExt@Relax",BADMINTON JAPAN 2026
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqTO5aFrLB5gCWEvYFtJr3SU7f0LX5IClEL_x6J10OWVgPPO6NJXaFYjO&s=10" group-title="ShareExt@Relax",BADMINTON JAPAN 2026 COURT 1
 https://ri.shinori.my.id/pxx.php?shk_cid=bs19
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqTO5aFrLB5gCWEvYFtJr3SU7f0LX5IClEL_x6J10OWVgPPO6NJXaFYjO&s=10" group-title="ShareExt@Relax",BADMINTON JAPAN 2026 COURT 2
+https://tg0z0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=cd120e557293ecbebccc00cfaabe3fb7&wsABSTime=1794681922&wsSession=2fcb611217566485bd0c4aaa-179463872602886&wsIPSercert=247212a878abf938f942e62497970ce0&wsBindIP=2&wsserid=1168287746130901650
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqTO5aFrLB5gCWEvYFtJr3SU7f0LX5IClEL_x6J10OWVgPPO6NJXaFYjO&s=10" group-title="ShareExt@Relax",BADMINTON JAPAN 2026 COURT 3
+https://tg0z0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=886ffc94b7751465f86536da1d621217&wsABSTime=1794682329&wsSession=80f39296f0f1157f4a1d218e-179463913426454&wsIPSercert=247212a878abf938f942e62497970ce0&wsBindIP=2&wsserid=1168287765269359649
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqTO5aFrLB5gCWEvYFtJr3SU7f0LX5IClEL_x6J10OWVgPPO6NJXaFYjO&s=10" group-title="ShareExt@Relax",BADMINTON JAPAN 2026 COURT 4
+https://tg0z0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=939b6e48db4603ef9cbd1e5cb87c7926&wsABSTime=1794682410&wsSession=b4f691dedba9f1a7dec2c7b3-179463921258739&wsIPSercert=247212a878abf938f942e62497970ce0&wsBindIP=2&wsserid=1168287746149776142
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5Xh6agj2H4ZTI8TRTWIhvJxBP86n3dxZBHkak0iLX9viFpndpmv_F2Q&s=10" group-title="LIVE 14-11-26",09.00 GUATEMALA VS CANADA
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/o48-gY_N0GkHZK4rjOBwy5ULBck=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9397256/original/071862500_1794567884-Indonesia_vs_Cambodia_U-17_1.jpg" group-title="LIVE 14-11-26",15.30 INDONESIA U17 VS CAMBODIA U17
