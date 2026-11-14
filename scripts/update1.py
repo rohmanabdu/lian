@@ -8,7 +8,7 @@ DRIVE_FILE_ID = "10K1rsnXU5EpbD-lNvvYkdJyXvePBLEVV"
 EXCLUDED_CATEGORY = "playlist koko uyo"
 OUTPUT_FILE = "pl/rama1"
 
-# LOGO BARU KAMU - SEKARANG DIPAKSA KE SEMUA CHANNEL
+# LOGO DEFAULT - CUMA DIPAKAI KALAU LOGO ASLI KOSONG
 DEFAULT_LOGO = "https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg"
 # ============================================
 
@@ -41,14 +41,16 @@ def parse_m3u(text):
             name = line.split(",")[-1]
             group = re.search(r'group-title="([^"]*)"', line, re.I)
             category = group.group(1) if group else ""
-            current = {"name": clean(name), "category": clean(category), "logo": DEFAULT_LOGO}
+            logo_match = re.search(r'tvg-logo="([^"]*)"', line, re.I)
+            logo = logo_match.group(1) if logo_match else ""
+            current = {"name": clean(name), "category": clean(category), "logo": logo}
             continue
         if current and not line.startswith("#") and line.startswith("http"):
             result.append({
                 "name": current["name"],
                 "url": line,
                 "category": current["category"],
-                "logo": DEFAULT_LOGO # <-- PAKSA DEFAULT
+                "logo": current["logo"]
             })
             current = None
     return result
@@ -67,8 +69,9 @@ def parse_txt(text):
             parts = line.split("|")
             if len(parts) >= 2:
                 name = clean(parts[0]); url = clean(parts[1])
+                logo = clean(parts[2]) if len(parts) >= 3 else ""
                 if name and url.startswith("http"):
-                    result.append({"name": name, "url": url, "category": category, "logo": DEFAULT_LOGO})
+                    result.append({"name": name, "url": url, "category": category, "logo": logo})
     return result
 
 def extract_json(data, result, inherited_category=""):
@@ -80,8 +83,9 @@ def extract_json(data, result, inherited_category=""):
     category = data.get("category") or data.get("group") or inherited_category or ""
     name = data.get("name") or data.get("title") or data.get("channel") or ""
     url = data.get("url") or data.get("link") or data.get("stream") or ""
+    logo = data.get("logo") or data.get("tvg-logo") or data.get("image") or ""
     if isinstance(url, str) and url.strip() and isinstance(name, str) and name.strip():
-        result.append({"name": clean(name), "url": clean(url), "category": clean(category), "logo": DEFAULT_LOGO})
+        result.append({"name": clean(name), "url": clean(url), "category": clean(category), "logo": clean(logo)})
         return
     for v in data.values():
         if isinstance(v, (dict, list)): extract_json(v, result, category)
@@ -99,17 +103,17 @@ def parse_playlist(text):
 def create_m3u(items):
     out = "#EXTM3U\n"
     for item in items:
-        # SEMUA LOGO DIPAKSA DEFAULT_LOGO
-        logo = DEFAULT_LOGO
+        # LOGIKA BARU: kalau logo asli ada, pakai itu. Kalau kosong, pakai DEFAULT_LOGO
+        logo = item.get("logo") or ""
+        if not logo.strip():
+            logo = DEFAULT_LOGO
         cat = item.get("category") or "LIVE"
         name = item.get("name") or "Channel"
         out += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{cat}",{name}\n{item["url"]}\n'
     return out
 
 def main():
-    # Benerin folder output biar sesuai OUTPUT_FILE
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-    # TARGET BARU - SESUAI LINK KAMU
     SOURCE_URL = f"https://drive.google.com/uc?id={DRIVE_FILE_ID}&export=download"
     r = requests.get(SOURCE_URL, headers={"User-Agent": "Mozilla/5.0"}, timeout=60)
     r.raise_for_status()
@@ -117,7 +121,7 @@ def main():
     filtered = [i for i in playlist if normalize(i.get("category"))!= normalize(EXCLUDED_CATEGORY) and not is_video_url(i.get("url"))]
     m3u = create_m3u(filtered)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f: f.write(m3u)
-    print(f"SELESAI -> {OUTPUT_FILE} | {len(filtered)} channel | semua logo dipaksa {DEFAULT_LOGO}")
+    print(f"SELESAI -> {OUTPUT_FILE} | {len(filtered)} channel | logo asli dipertahankan, yang kosong pakai default")
 
 if __name__ == "__main__":
     main()
