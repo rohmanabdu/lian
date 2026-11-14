@@ -69,8 +69,6 @@ http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecr
 # ===== SOURCE 11 =====
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqTO5aFrLB5gCWEvYFtJr3SU7f0LX5IClEL_x6J10OWVgPPO6NJXaFYjO&s=10" group-title="ShareExt@Relax",BADMINTON JAPAN 2026
 https://ri.shinori.my.id/pxx.php?shk_cid=bs19
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5Xh6agj2H4ZTI8TRTWIhvJxBP86n3dxZBHkak0iLX9viFpndpmv_F2Q&s=10" group-title="LIVE 14-11-26",08.00 PERU VS BOLIVIA
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5Xh6agj2H4ZTI8TRTWIhvJxBP86n3dxZBHkak0iLX9viFpndpmv_F2Q&s=10" group-title="LIVE 14-11-26",09.00 GUATEMALA VS CANADA
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/o48-gY_N0GkHZK4rjOBwy5ULBck=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9397256/original/071862500_1794567884-Indonesia_vs_Cambodia_U-17_1.jpg" group-title="LIVE 14-11-26",15.30 INDONESIA U17 VS CAMBODIA U17
@@ -80,9 +78,9 @@ https://kokotv.my.id/Videointro2.php?type=live.m3u8?type=live.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5Xh6agj2H4ZTI8TRTWIhvJxBP86n3dxZBHkak0iLX9viFpndpmv_F2Q&s=10" group-title="LIVE 14-11-26",17.15 JAPAN VS BRAZIL
 https://ls-mp02stg.eo-edgefunctions7.com/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5Xh6agj2H4ZTI8TRTWIhvJxBP86n3dxZBHkak0iLX9viFpndpmv_F2Q&s=10" group-title="LIVE 14-11-26",19.00 CHINA VS MALAYSIA
-https://kokotv.my.id/Videointro2.php?type=live.m3u8?type=live.m3u8
+https://shorter.me/SUKAN
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5Xh6agj2H4ZTI8TRTWIhvJxBP86n3dxZBHkak0iLX9viFpndpmv_F2Q&s=10" group-title="LIVE 14-11-26",19.30 THAILAND VS BRUNEI
-https://kokotv.my.id/Videointro2.php?type=live.m3u8?type=live.m3u8
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5Xh6agj2H4ZTI8TRTWIhvJxBP86n3dxZBHkak0iLX9viFpndpmv_F2Q&s=10" group-title="LIVE 14-11-26",22.00 PALESTINA VS IRAN
 https://kokotv.my.id/Videointro2.php?type=live.m3u8?type=live.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5k9z8jqf9rmsg1wfhtiso/Gemini_Generated_Image_sr9aqfsr9aqfsr9a.jpeg?rlkey=861yfheufy50lnw73k44nccks&st=dse4sjv7&dl=1" group-title="Nasional",RCTI SPORTS
