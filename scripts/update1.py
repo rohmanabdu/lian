@@ -4,7 +4,7 @@ import os
 import json
 
 # ================== CONFIG ==================
-DRIVE_FILE_ID = "1BS_-b7RJJwINV-U8p5NdNYldDW7GmfLn"
+DRIVE_FILE_ID = "10K1rsnXU5EpbD-lNvvYkdJyXvePBLEVV"
 EXCLUDED_CATEGORY = "playlist koko uyo"
 OUTPUT_FILE = "pl/rama1"
 
@@ -107,8 +107,10 @@ def create_m3u(items):
     return out
 
 def main():
-    os.makedirs("playlist", exist_ok=True)
-    SOURCE_URL = f"https://drive.usercontent.google.com/download?id={DRIVE_FILE_ID}&export=download&confirm=t"
+    # Benerin folder output biar sesuai OUTPUT_FILE
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+    # TARGET BARU - SESUAI LINK KAMU
+    SOURCE_URL = f"https://drive.google.com/uc?id={DRIVE_FILE_ID}&export=download"
     r = requests.get(SOURCE_URL, headers={"User-Agent": "Mozilla/5.0"}, timeout=60)
     r.raise_for_status()
     playlist = parse_playlist(r.text)
