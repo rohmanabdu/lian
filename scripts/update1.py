@@ -8,6 +8,9 @@ DRIVE_FILE_ID = "10K1rsnXU5EpbD-lNvvYkdJyXvePBLEVV"
 EXCLUDED_CATEGORY = "playlist koko uyo"
 OUTPUT_FILE = "pl/rama1"
 
+# KATEGORI DIPAKSA JADI INI SEMUA
+FORCED_CATEGORY = "LIVE EVENT"
+
 # LOGO DEFAULT - CUMA DIPAKAI KALAU LOGO ASLI KOSONG
 DEFAULT_LOGO = "https://img.magnific.com/premium-vector/live-streaming-icon-live-broadcasting-button-online-stream-icon_349999-1413.jpg"
 # ============================================
@@ -103,11 +106,12 @@ def parse_playlist(text):
 def create_m3u(items):
     out = "#EXTM3U\n"
     for item in items:
-        # LOGIKA BARU: kalau logo asli ada, pakai itu. Kalau kosong, pakai DEFAULT_LOGO
+        # LOGO: kalau logo asli ada, pakai itu. Kalau kosong, pakai DEFAULT_LOGO
         logo = item.get("logo") or ""
         if not logo.strip():
             logo = DEFAULT_LOGO
-        cat = item.get("category") or "LIVE"
+        # KATEGORI: DIPAKSA SEMUA JADI LIVE EVENT
+        cat = FORCED_CATEGORY
         name = item.get("name") or "Channel"
         out += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{cat}",{name}\n{item["url"]}\n'
     return out
@@ -121,7 +125,7 @@ def main():
     filtered = [i for i in playlist if normalize(i.get("category"))!= normalize(EXCLUDED_CATEGORY) and not is_video_url(i.get("url"))]
     m3u = create_m3u(filtered)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f: f.write(m3u)
-    print(f"SELESAI -> {OUTPUT_FILE} | {len(filtered)} channel | logo asli dipertahankan, yang kosong pakai default")
+    print(f"SELESAI -> {OUTPUT_FILE} | {len(filtered)} channel | semua kategori jadi {FORCED_CATEGORY}")
 
 if __name__ == "__main__":
     main()
